@@ -1,0 +1,28 @@
+{
+  "model_type": "K-Means",
+  "model_data": {
+    "algorithm": "K-Means",
+    "accuracy": 0.82,
+    "lastTrained": "2025-10-04T09:52:27.637Z",
+    "isTrained": true
+  },
+  "model_metadata": {
+    "name": "User Segmentation",
+    "type": "clustering",
+    "algorithm": "K-Means",
+    "accuracy": 0.82,
+    "lastTrained": "2025-10-04T09:52:27.637Z",
+    "isTrained": true,
+    "savedAt": "2025-10-04T09:52:27.649Z",
+    "version": "1.0.0",
+    "format": "pickle_simulated"
+  },
+  "model_weights": {},
+  "model_config": {
+    "algorithm": "K-Means",
+    "parameters": {},
+    "features": [],
+    "preprocessing": {},
+    "postprocessing": {}
+  }
+}

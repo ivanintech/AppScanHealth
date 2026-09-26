@@ -1,0 +1,1357 @@
+[
+  {
+    "producto": "GLICINA 1000mg - 100 veg caps",
+    "ean": 733739001078.0,
+    "texto_ingredientes": "Glicina, cápsula vegetal [agente de recubrimiento (hidroxipropilmetilcelulosa)], estabilizante (hidroxipropilcelulosa), antiaglomerantes [ácidos grasos (fuente vegetal), dióxido de silicio].",
+    "e_numeros_detectados": [
+      "E-464",
+      "E-470"
+    ],
+    "e_numeros_esperados": [
+      "E-122",
+      "E-172",
+      "E-460",
+      "E-461",
+      "E-462",
+      "E-464",
+      "E-470",
+      "E-470B",
+      "E-471",
+      "E-472",
+      "E-473",
+      "E-474",
+      "E-475",
+      "E-476",
+      "E-477",
+      "E-478",
+      "E-529",
+      "E-530",
+      "E-551",
+      "E-570",
+      "E-640"
+    ],
+    "verdaderos_positivos": [
+      "E-464",
+      "E-470"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-122",
+      "E-172",
+      "E-460",
+      "E-461",
+      "E-462",
+      "E-470B",
+      "E-471",
+      "E-472",
+      "E-473",
+      "E-474",
+      "E-475",
+      "E-476",
+      "E-477",
+      "E-478",
+      "E-529",
+      "E-530",
+      "E-551",
+      "E-570",
+      "E-640"
+    ],
+    "precision": 1.0,
+    "recall": 0.09523809523809523,
+    "f1_score": 0.17391304347826086
+  },
+  {
+    "producto": "Origin Pre-Entreno - 30raciones - American Grape",
+    "ean": "5059883485386",
+    "texto_ingredientes": "DL-malato de L-citrulina 2:1, L-arginina alfa-cetoglutarato, beta-alanina, aroma, maltodextrina, ácidos (ácido cítrico, ácido málico), extracto de granos de café (\nCoffea\nL.) (2%), aroma natural, L-teanina, concentrado de remolacha, edulcorantes (sucralosa, acesulfamo K), extracto de espirulina.",
+    "e_numeros_detectados": [
+      "E-296",
+      "E-330",
+      "E-955"
+    ],
+    "e_numeros_esperados": [
+      "E-122",
+      "E-1400",
+      "E-296",
+      "E-330",
+      "E-955"
+    ],
+    "verdaderos_positivos": [
+      "E-296",
+      "E-330",
+      "E-955"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-122",
+      "E-1400"
+    ],
+    "precision": 1.0,
+    "recall": 0.6,
+    "f1_score": 0.75
+  },
+  {
+    "producto": "Impact Diet Whey - 1kg - Sin Sabor",
+    "ean": "5056104504727",
+    "texto_ingredientes": "Mezcla de proteína (75%) (concentrado de proteína de lactosuero (\nleche\n) [contiene emulsionantes: lecitina de girasol, lecitina de\nsoja\n], concentrado de proteína de\nleche\n, aislado de proteína de lactosuero (\nleche\n) [contiene emulsionantes: lecitina de girasol, lecitina de\nsoja\n]), harina de\navena\n(8%), inulina (8%), saborizante natural, L-glutamina (2%), linaza en polvo (\nLinum usitatissimum\n) (2%), preparado de ALC (triglicérido de ácido linoleico conjugado (de aceite de cártamo), sólidos de jarabe de maíz, proteínas de\nleche\n, estabilizante (fosfato dipotásico), antiaglomerante (dióxido de silicio), antioxidante (tocoferoles mixtos)), extracto de té verde (\nCamellia sinensis\n), espesante (goma xantana), bitartrato de DL-colina en polvo (bitartrato de colina, antiaglomerante (dióxido de silicio)), edulcorante (sucralosa), extracto de aceite de cúrcuma, DigeZyme™ (proteasa, amilasa, beta-D-galactosidasa, lipasa, celulasa).",
+    "e_numeros_detectados": [
+      "E-322"
+    ],
+    "e_numeros_esperados": [
+      "E-122",
+      "E-142",
+      "E-172",
+      "E-322",
+      "E-335",
+      "E-336",
+      "E-415",
+      "E-416",
+      "E-479",
+      "E-529",
+      "E-530",
+      "E-541",
+      "E-551",
+      "E-955"
+    ],
+    "verdaderos_positivos": [
+      "E-322"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-122",
+      "E-142",
+      "E-172",
+      "E-335",
+      "E-336",
+      "E-415",
+      "E-416",
+      "E-479",
+      "E-529",
+      "E-530",
+      "E-541",
+      "E-551",
+      "E-955"
+    ],
+    "precision": 1.0,
+    "recall": 0.07142857142857142,
+    "f1_score": 0.13333333333333333
+  },
+  {
+    "producto": "EXTRACTO DE MANGO AFRICANO (10:1) 400mg",
+    "ean": 5056329515607.0,
+    "texto_ingredientes": "Extracto de mango africano (10:1, de semilla de Irvingia gabonensis ), harina de arroz, cápsula vegetal [agente de recubrimiento (hidroxipropilmetilcelulosa)], antiaglomerante (fosfato tricálcico), antiaglomerante (L-leucina), maltodextrina, picolinato de cromo.",
+    "e_numeros_detectados": [
+      "E-464"
+    ],
+    "e_numeros_esperados": [
+      "E-1400",
+      "E-460",
+      "E-461",
+      "E-462",
+      "E-464"
+    ],
+    "verdaderos_positivos": [
+      "E-464"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-1400",
+      "E-460",
+      "E-461",
+      "E-462"
+    ],
+    "precision": 1.0,
+    "recall": 0.2,
+    "f1_score": 0.3333333333333333
+  },
+  {
+    "producto": "Clear Collagen Powder Tub - 30raciones - Uva",
+    "ean": "5060746514648",
+    "texto_ingredientes": "péptido de colágeno bovino hidrolizado (87 %), saborizante, ácido (ácido cítrico), colorante (rojo remolacha), edulcorante (sucralosa), extracto de espirulina, dihidrato de trehalosa (la trehalosa es una fuente de glucosa).",
+    "e_numeros_detectados": [
+      "E-330",
+      "E-955"
+    ],
+    "e_numeros_esperados": [
+      "E-122",
+      "E-128",
+      "E-330",
+      "E-955"
+    ],
+    "verdaderos_positivos": [
+      "E-330",
+      "E-955"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-122",
+      "E-128"
+    ],
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1_score": 0.6666666666666666
+  },
+  {
+    "producto": "Creatina Monohidrato en polvo - 1KG - 227raciones - Tropical",
+    "ean": "5055534364895",
+    "texto_ingredientes": "TROPICAL\n: Monohidrato de creatina, aroma, ácido (ácido cítrico), edulcorante (sucralosa), extracto de aceite de cúrcuma.",
+    "e_numeros_detectados": [
+      "E-330",
+      "E-955"
+    ],
+    "e_numeros_esperados": [
+      "E-122",
+      "E-330",
+      "E-955"
+    ],
+    "verdaderos_positivos": [
+      "E-330",
+      "E-955"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-122"
+    ],
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1_score": 0.8
+  },
+  {
+    "producto": "Aislado de Proteína de Guisante - 1kg - Strawberry",
+    "ean": "5056307353283",
+    "texto_ingredientes": "FRESA\n: Aislado de proteína de guisante (92%), aroma de fresa natural con otros aromas naturales, crema de aceite de girasol (aceite de girasol, almidón de tapioca modificado, aroma natural, antiaglomerante (dióxido de silicio), antioxidante (alfa-tocoferol)), colorante (rojo de remolacha), espesante (goma xantana), aroma natural, edulcorante (sucralosa).",
+    "e_numeros_detectados": [
+      "E-307",
+      "E-415",
+      "E-955"
+    ],
+    "e_numeros_esperados": [
+      "E-128",
+      "E-1402",
+      "E-172",
+      "E-307",
+      "E-415",
+      "E-416",
+      "E-479",
+      "E-529",
+      "E-530",
+      "E-551",
+      "E-955"
+    ],
+    "verdaderos_positivos": [
+      "E-307",
+      "E-415",
+      "E-955"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-128",
+      "E-1402",
+      "E-172",
+      "E-416",
+      "E-479",
+      "E-529",
+      "E-530",
+      "E-551"
+    ],
+    "precision": 1.0,
+    "recall": 0.2727272727272727,
+    "f1_score": 0.42857142857142855
+  },
+  {
+    "producto": "VITAMINA C 950mg",
+    "ean": 5056329516789.0,
+    "texto_ingredientes": "Ácido ascórbico (vitamina C), cápsula vegetal [agente de recubrimiento (hidroxipropilmetilcelulosa)].",
+    "e_numeros_detectados": [
+      "E-300",
+      "E-464"
+    ],
+    "e_numeros_esperados": [
+      "E-122",
+      "E-300",
+      "E-460",
+      "E-461",
+      "E-462",
+      "E-464"
+    ],
+    "verdaderos_positivos": [
+      "E-300",
+      "E-464"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-122",
+      "E-460",
+      "E-461",
+      "E-462"
+    ],
+    "precision": 1.0,
+    "recall": 0.3333333333333333,
+    "f1_score": 0.5
+  },
+  {
+    "producto": "CALCIO + MAGNESIO 333mg/166mg - 120 perlas",
+    "ean": 733739012517.0,
+    "texto_ingredientes": "Calcio (carbonato y citrato cálcico), magnesio (citrato y óxido), zinc (óxido de zinc), vitamina D3 (colecalciferol - de Lanolin), aceite de salvado de arroz, cápsula softgel [gelatina bovina, humectante (glicerina), agua, carbonato de calcio], emulgente (lecitina de soja ), agente de recubrimiento (cera de abejas).",
+    "e_numeros_detectados": [
+      "E-170",
+      "E-322"
+    ],
+    "e_numeros_esperados": [
+      "E-170",
+      "E-172",
+      "E-322",
+      "E-331",
+      "E-332",
+      "E-333",
+      "E-422",
+      "E-479",
+      "E-500",
+      "E-529",
+      "E-530"
+    ],
+    "verdaderos_positivos": [
+      "E-170",
+      "E-322"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-172",
+      "E-331",
+      "E-332",
+      "E-333",
+      "E-422",
+      "E-479",
+      "E-500",
+      "E-529",
+      "E-530"
+    ],
+    "precision": 1.0,
+    "recall": 0.18181818181818182,
+    "f1_score": 0.3076923076923077
+  },
+  {
+    "producto": "Barrita proteica ligera Layered - 6 x 40g - Chocolate Blanco con Frambuesa",
+    "ean": "5059883238821",
+    "texto_ingredientes": ": Mezcla de proteína (18%) (aislado de proteína de\nsoja\n, concentrado de proteína de\nleche\n, concentrado de proteína de lactosuero (\nleche\n)), fibra de raíz de achicoria, edulcorante (maltitol), gelatina bovina hidrolizada, humectante (glicerol), recubrimiento blanco (10%) (edulcorante (maltitol), aceites vegetales (palmiste, grasa de palma), lactosuero dulce en polvo (\nleche\n),\nleche\ndesnatada en polvo, emulsionante (lecitina de girasol)), caseinato de calcio (\nleche\n), aceite de colza, fructooligosacáridos, crujientes de proteína de soja (2,5%) (aislado de proteína de\nsoja\n, almidón de tapioca, sal marina), saborizante natural, saborizante, emulsionante (lecitina de\nsoja\n), trozos de frambuesa liofilizada (0,2%), colorante (carmín).\nPara obtener información sobre los alérgenos, consultar los ingredientes en",
+    "e_numeros_detectados": [
+      "E-322",
+      "E-965"
+    ],
+    "e_numeros_esperados": [
+      "E-322",
+      "E-479",
+      "E-965"
+    ],
+    "verdaderos_positivos": [
+      "E-322",
+      "E-965"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-479"
+    ],
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1_score": 0.8
+  },
+  {
+    "producto": "LECITINA DE SOJA 1200mg",
+    "ean": 733739022103.0,
+    "texto_ingredientes": "Lecitina de soja , perla [gelatina bovina, humectante (glicerina), agua], aceite de semilla de soja .",
+    "e_numeros_detectados": [
+      "E-322",
+      "E-422"
+    ],
+    "e_numeros_esperados": [
+      "E-322",
+      "E-422",
+      "E-479"
+    ],
+    "verdaderos_positivos": [
+      "E-322",
+      "E-422"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-479"
+    ],
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1_score": 0.8
+  },
+  {
+    "producto": "Impact Whey Protein - 1kg - Vainilla",
+    "ean": "5055534302934",
+    "texto_ingredientes": "VAINILLA:\nConcentrado de proteína de lactosuero (\nleche\n) (96%) (contiene emulsionantes (lecitina de\nsoja\n, lecitina de girasol)), aroma, edulcorante (sucralosa).",
+    "e_numeros_detectados": [
+      "E-322",
+      "E-955"
+    ],
+    "e_numeros_esperados": [
+      "E-322",
+      "E-955"
+    ],
+    "verdaderos_positivos": [
+      "E-322",
+      "E-955"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [],
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0
+  },
+  {
+    "producto": "Impact Whey Protein - 2x2.5kg - Fresa Natural",
+    "ean": "PRERELEASE",
+    "texto_ingredientes": ": Proteínas de\nleche\n(20%), isomalto-oligosacáridos (una fuente de glucosa), humectante (glicerina vegetal), trocitos de proteína de soja (11%) (aislado de proteína de\nsoja\n, almidón de tapioca, cacao en polvo, sal), cobertura con",
+    "e_numeros_detectados": [
+      "E-422"
+    ],
+    "e_numeros_esperados": [
+      "E-422"
+    ],
+    "verdaderos_positivos": [
+      "E-422"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [],
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0
+  },
+  {
+    "producto": "GABA 500mg",
+    "ean": 5060326270674.0,
+    "texto_ingredientes": "Ácido gamma-aminobutírico (GABA), cápsula vegetal [agente de recubrimiento (hidroxipropilmetilcelulosa)], antiaglomerante (sales magnésicas de ácidos grasos), antiaglomerante (dióxido de silicio), D-pantotenato cálcico (ácido pantoténico), clorhidrato de piridoxina (vitamina B6).",
+    "e_numeros_detectados": [
+      "E-464",
+      "E-470B",
+      "E-551"
+    ],
+    "e_numeros_esperados": [
+      "E-122",
+      "E-172",
+      "E-460",
+      "E-461",
+      "E-462",
+      "E-464",
+      "E-470",
+      "E-470B",
+      "E-471",
+      "E-472",
+      "E-473",
+      "E-474",
+      "E-475",
+      "E-476",
+      "E-477",
+      "E-478",
+      "E-524",
+      "E-528",
+      "E-529",
+      "E-530",
+      "E-551",
+      "E-570"
+    ],
+    "verdaderos_positivos": [
+      "E-464",
+      "E-470B",
+      "E-551"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-122",
+      "E-172",
+      "E-460",
+      "E-461",
+      "E-462",
+      "E-470",
+      "E-471",
+      "E-472",
+      "E-473",
+      "E-474",
+      "E-475",
+      "E-476",
+      "E-477",
+      "E-478",
+      "E-524",
+      "E-528",
+      "E-529",
+      "E-530",
+      "E-570"
+    ],
+    "precision": 1.0,
+    "recall": 0.13636363636363635,
+    "f1_score": 0.24
+  },
+  {
+    "producto": "Mezcla Ganador de Peso - 5kg - Fresa",
+    "ean": "5056104572436",
+    "texto_ingredientes": ": Harina de\navena\n(65%), mezcla de proteína (30%) (concentrado de proteína de lactosuero (\nleche\n) (contiene emulsionantes (lecitina de\nsoja\n, lecitina de girasol)), concentrado de proteína de\nleche\n), maltodextrina (5%).\nCHOCOLATE SUAVE\n: Harina de\navena\n(63%), mezcla de proteína (28%) (concentrado de proteína de lactosuero (\nleche\n) (contiene emulsionantes (lecitina de\nsoja\n, lecitina de girasol)), concentrado de proteína de\nleche\n), maltodextrina (5%), cacao en polvo bajo en grasa, aroma, edulcorante (sucralosa).\nFRESA\n: Harina de\navena\n(65%), mezcla de proteína (28%) (concentrado de proteína de lactosuero (\nleche\n) (contiene emulsionantes (lecitina de\nsoja\n, lecitina de girasol)), concentrado de proteína de\nleche\n), maltodextrina (5%), aroma, colorante (rojo de remolacha), edulcorante (sucralosa).\nVAINILLA\n: Harina de\navena\n(61%), mezcla de proteína (28%) (concentrado de proteína de lactosuero (\nleche\n) (contiene emulsionantes (lecitina de\nsoja\n, lecitina de girasol)), concentrado de proteína de\nleche\n), aroma, maltodextrina (5%), edulcorante (sucralosa).\nMATCHA CON LECHE\n: Harina de\navena\n(59%), mezcla de proteína (27%) (concentrado de proteína de lactosuero (\nleche\n) (contiene emulsionantes (lecitina de\nsoja\n, lecitina de girasol)), concentrado de proteína de\nleche\n), té verde matcha en polvo (7%), maltodextrina (4,5%),\nleche\ndesnatada en polvo, edulcorante (sucralosa).\nLECHE DE HOKKAIDO\n: Harina de\navena\n(61%), mezcla de proteína (29%) (concentrado de proteína de lactosuero (\nleche\n) (contiene emulsionantes (lecitina de\nsoja\n, lecitina de girasol)), concentrado de proteína de\nleche\n), maltodextrina (5%), crema de queso en polvo (\nleche\n), aroma, edulcorante (sucralosa).\nCAFÉ CON LECHE CON HIELO\n: Harina de\navena\n(59%), mezcla de proteína (28%) (concentrado de proteína de lactosuero (\nleche\n) (contiene emulsionantes (lecitina de\nsoja\n, lecitina de girasol)), concentrado de proteína de\nleche\n), aroma (contiene cafeína), maltodextrina (5%), aroma natural, edulcorante (sucralosa).\nTÉ CON LECHE Y AZÚCAR MORENO\n: Harina de\navena\n(59%), mezcla de proteína (28%) (concentrado de proteína de lactosuero (\nleche\n) (contiene emulsionantes (lecitina de\nsoja\n, lecitina de girasol)), concentrado de proteína de\nleche\n), aroma (contiene cafeína), maltodextrina (5%), aroma natural, edulcorante (sucralosa).",
+    "e_numeros_detectados": [
+      "E-322"
+    ],
+    "e_numeros_esperados": [
+      "E-128",
+      "E-1400",
+      "E-322",
+      "E-955"
+    ],
+    "verdaderos_positivos": [
+      "E-322"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-128",
+      "E-1400",
+      "E-955"
+    ],
+    "precision": 1.0,
+    "recall": 0.25,
+    "f1_score": 0.4
+  },
+  {
+    "producto": "Caseína de Liberación Lenta - 1kg - Strawberry",
+    "ean": "5055534319697",
+    "texto_ingredientes": "FRESA\n: Caseína micelar (\nleche\n) (98%), aroma, colorante (rojo de remolacha), edulcorante (sucralosa).",
+    "e_numeros_detectados": [],
+    "e_numeros_esperados": [
+      "E-128",
+      "E-955"
+    ],
+    "verdaderos_positivos": [],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-128",
+      "E-955"
+    ],
+    "precision": 1.0,
+    "recall": 0.0,
+    "f1_score": 0.0
+  },
+  {
+    "producto": "Total Protein - 2.5kg - Crema de Fresas",
+    "ean": "5056104571804",
+    "texto_ingredientes": ": Mezcla de Proteínas (99%) (Concentrado de Proteína de Suero\n[Leche]\n(Emulgente (Lecitina de\nSoja\n), Aislado de Porteína de Suero\n[Leche]\n(Emulgente (Lecitina de\nSoja\n)), Proteína de Suero Hidrolizada\n[Leche]\n, Concentrado de Proteína de\nLeche\n, Caseína Micelar\n[Leche]\n, Caseinato de Calcio\n[Leche]\n(Caseína Ácida\n[Leche]\n, Hidróxido de Calcio, Carbonato de Sodio), Clara en Polvo de\nHuevos\nde Corral), Agente Espesante (Goma Xantana)",
+    "e_numeros_detectados": [
+      "E-322",
+      "E-415"
+    ],
+    "e_numeros_esperados": [
+      "E-122",
+      "E-170",
+      "E-172",
+      "E-219",
+      "E-322",
+      "E-415",
+      "E-416",
+      "E-479",
+      "E-500",
+      "E-529",
+      "E-530"
+    ],
+    "verdaderos_positivos": [
+      "E-322",
+      "E-415"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-122",
+      "E-170",
+      "E-172",
+      "E-219",
+      "E-416",
+      "E-479",
+      "E-500",
+      "E-529",
+      "E-530"
+    ],
+    "precision": 1.0,
+    "recall": 0.18181818181818182,
+    "f1_score": 0.3076923076923077
+  },
+  {
+    "producto": "Impact Whey Isolate - 1kg - Chocolate y Caramelo",
+    "ean": "5055534355985",
+    "texto_ingredientes": "CHOCOLATE Y CARAMELO\n: Aislado de proteína de lactosuero (\nleche\n) (94%) (contiene emulsionantes (lecitina de\nsoja\n, lecitina de girasol)), cacao en polvo bajo en grasa, aromas, edulcorante (sucralosa).",
+    "e_numeros_detectados": [
+      "E-150",
+      "E-322"
+    ],
+    "e_numeros_esperados": [
+      "E-150",
+      "E-322",
+      "E-955"
+    ],
+    "verdaderos_positivos": [
+      "E-150",
+      "E-322"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-955"
+    ],
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1_score": 0.8
+  },
+  {
+    "producto": "EXTRACTO DE ALUBIA BLANCA (12:1) 500mg",
+    "ean": 5060326273088.0,
+    "texto_ingredientes": "Extracto de alubia blanca (12:1, de semilla de Phaseolus vulgaris , 8000 Al unidades/g), agentes de carga (carbonato de calcio, celulosa microcristalina), cápsula vegetal [agente de recubrimiento (hidroxipropilmetilcelulosa)], antiaglomerantes (sales magnésicas de ácidos grasos, dióxido de silicio), maltodextrina, picolinato de cromo.",
+    "e_numeros_detectados": [
+      "E-464",
+      "E-470B"
+    ],
+    "e_numeros_esperados": [
+      "E-122",
+      "E-1400",
+      "E-153",
+      "E-170",
+      "E-172",
+      "E-460",
+      "E-461",
+      "E-462",
+      "E-464",
+      "E-470",
+      "E-470B",
+      "E-471",
+      "E-472",
+      "E-473",
+      "E-474",
+      "E-475",
+      "E-476",
+      "E-477",
+      "E-478",
+      "E-500",
+      "E-524",
+      "E-528",
+      "E-529",
+      "E-530",
+      "E-551",
+      "E-570"
+    ],
+    "verdaderos_positivos": [
+      "E-464",
+      "E-470B"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-122",
+      "E-1400",
+      "E-153",
+      "E-170",
+      "E-172",
+      "E-460",
+      "E-461",
+      "E-462",
+      "E-470",
+      "E-471",
+      "E-472",
+      "E-473",
+      "E-474",
+      "E-475",
+      "E-476",
+      "E-477",
+      "E-478",
+      "E-500",
+      "E-524",
+      "E-528",
+      "E-529",
+      "E-530",
+      "E-551",
+      "E-570"
+    ],
+    "precision": 1.0,
+    "recall": 0.07692307692307693,
+    "f1_score": 0.14285714285714285
+  },
+  {
+    "producto": "Pop Rolls - 12 x 27g - Chocolate y Caramelo",
+    "ean": "5059883233987",
+    "texto_ingredientes": "mezcla de proteína (34%) (proteínas de\nleche\n, proteína de\ntrigo\nhidrolizada, aislado de proteína de\nsoja\n), humectante (glicerina vegetal), isomalto-oligosacáridos (una fuente de glucosa), caramelo bajo en azúcar (12%) (oligofructosa, humectante (glicerina vegetal), aceite de karité, agua, gelificante (pectina), colorante (caramelo natural), emulsionantes (mono- y diglicéridos de ácidos grasos, lecitina de colza), sal, saborizante natural), recubrimiento",
+    "e_numeros_detectados": [
+      "E-150",
+      "E-322",
+      "E-422",
+      "E-471"
+    ],
+    "e_numeros_esperados": [
+      "E-122",
+      "E-150",
+      "E-322",
+      "E-422",
+      "E-440",
+      "E-470",
+      "E-470B",
+      "E-471",
+      "E-472",
+      "E-473",
+      "E-474",
+      "E-475",
+      "E-476",
+      "E-477",
+      "E-478",
+      "E-479",
+      "E-570"
+    ],
+    "verdaderos_positivos": [
+      "E-150",
+      "E-322",
+      "E-422",
+      "E-471"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-122",
+      "E-440",
+      "E-470",
+      "E-470B",
+      "E-472",
+      "E-473",
+      "E-474",
+      "E-475",
+      "E-476",
+      "E-477",
+      "E-478",
+      "E-479",
+      "E-570"
+    ],
+    "precision": 1.0,
+    "recall": 0.23529411764705882,
+    "f1_score": 0.38095238095238093
+  },
+  {
+    "producto": "Impact EAA - 250g - Cola",
+    "ean": "5056281161645",
+    "texto_ingredientes": "INGREDIENTES: Mezcla de aminoácidos esenciales en polvo (L-leucina, clorhidrato de L-lisina, L-isoleucina, L-valina, L-treonina, L-fenilalanina, L-triptófano, L-metionina, L-histidina), aroma, ácido (ácido cítrico), extracto de manzana, edulcorante (sucralosa).",
+    "e_numeros_detectados": [
+      "E-330",
+      "E-955"
+    ],
+    "e_numeros_esperados": [
+      "E-122",
+      "E-330",
+      "E-955"
+    ],
+    "verdaderos_positivos": [
+      "E-330",
+      "E-955"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-122"
+    ],
+    "precision": 1.0,
+    "recall": 0.6666666666666666,
+    "f1_score": 0.8
+  },
+  {
+    "producto": "Clear Whey Protein - MARVEL - 20raciones - Spider-Man - Raspberry & Strawberry",
+    "ean": "PRERELEASE",
+    "texto_ingredientes": ": Proteínas de\nleche\n(20%), isomalto-oligosacáridos (una fuente de glucosa), humectante (glicerina vegetal), trocitos de proteína de soja (11%) (aislado de proteína de\nsoja\n, almidón de tapioca, cacao en polvo, sal), cobertura con",
+    "e_numeros_detectados": [
+      "E-422"
+    ],
+    "e_numeros_esperados": [
+      "E-422"
+    ],
+    "verdaderos_positivos": [
+      "E-422"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [],
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0
+  },
+  {
+    "producto": "Barquillo Proteico - 12x40g - Fresa",
+    "ean": "5060746509330",
+    "texto_ingredientes": "leche\n), caseína (\nleche\n), aceite de canola, maltodextrina, crujientes de proteína de leche (proteínas de\nleche\n, almidón de patata), concentrado de puré de fresa, colorante (rojo remolacha), saborizante natural, ácido (ácido cítrico), edulcorante (sucralosa), emulsionante (lecitina de colza)), chocolate blanco (35%) (manteca de cacao, edulcorante (maltitol), concentrado de proteína de lactosuero (\nleche\n),\nleche\nentera en polvo, concentrado de mantequilla (\nleche\n), emulsionante (lecitina de girasol), extracto de vainilla bourbon), barquillo (16%) (harina de trigo (\nharina\nde trigo, niacina, hierro, tiamina, riboflavina, ácido fólico), aceite de coco, emulsionante (lecitina de colza), yema de\nhuevo\n, sal, agente de tratamiento de la harina (ácido ascórbico)). CHOCOLATE: 35% mínimo de sólidos de leche.",
+    "e_numeros_detectados": [
+      "E-322",
+      "E-330",
+      "E-955"
+    ],
+    "e_numeros_esperados": [
+      "E-101",
+      "E-122",
+      "E-128",
+      "E-1400",
+      "E-1401",
+      "E-300",
+      "E-322",
+      "E-330",
+      "E-955",
+      "E-965"
+    ],
+    "verdaderos_positivos": [
+      "E-322",
+      "E-330",
+      "E-955"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-101",
+      "E-122",
+      "E-128",
+      "E-1400",
+      "E-1401",
+      "E-300",
+      "E-965"
+    ],
+    "precision": 1.0,
+    "recall": 0.3,
+    "f1_score": 0.46153846153846156
+  },
+  {
+    "producto": "BCAA 2:1:1 - 250g - Cola",
+    "ean": "5056185744555",
+    "texto_ingredientes": "L-Leucina (50%), Isoleucina (25%), Valina (25%)\nFrambuesa Azul: L-Leucina (39%), Isoleucina (19.5%), Valina (19.5%), Saborizante, Extracto de Espirulina, Dihidrato de Trehalosa, Ácido (Ácido Cítrico), Edulcorante (Sucralosa),\nFresa y Lima: L-Leucina (39%), Isoleucina (19.5%), Valina (19.5%), Saborizante, Extracto de Aceite de Cúrcuma, Colorante (Rojo Remolacha), Ácido (Ácido Cítrico), Edulcorante (Sucralosa)\nExplosión de bayas: L-Leucina (40%), Isoleucina (20%), Valina (20%), Saborizante, Colorante (Rojo Remolacha), Ácido (Ácido Cítrico), Edulcorante (Sucralosa),\nCola: L-Leucina (37%), Isoleucina (18.5%), Valina (18.5%), Saborizante, Extracto de Manzana, Ácido (Ácido Cítrico), Edulcorante (Sucralosa)\nTropical: L-Leucina (42%), Isoleucina (21%), Valina (21%), Saborizante, Extracto de Aceite de Cúrcuma, Ácido (Ácido Cítrico), Edulcorante (Sucralosa)\nMelocotón y Mango: L-Leucina (45%), Isoleucina (22%), Valina (22%), Saborizante, Extracto de Aceite de Cúrcuma, Color (Rojo Remolacha), Ácido (Ácido Cítrico), Edulcorante (Sucralosa)\nSandía: L-Leucina (42%), Isoleucina (21%), Valina (21%), Saborizante, Color (Rojo Remolacha), Ácido (Ácido Cítrico), Edulcorante (Sucralosa)",
+    "e_numeros_detectados": [
+      "E-330"
+    ],
+    "e_numeros_esperados": [
+      "E-122",
+      "E-128",
+      "E-330",
+      "E-955"
+    ],
+    "verdaderos_positivos": [
+      "E-330"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-122",
+      "E-128",
+      "E-955"
+    ],
+    "precision": 1.0,
+    "recall": 0.25,
+    "f1_score": 0.4
+  },
+  {
+    "producto": "Impact Diet Whey - 5kg - Chocolate",
+    "ean": "5056104504604",
+    "texto_ingredientes": "Mezcla de proteína (65%) (concentrado de proteína de lactosuero (\nleche\n) [contiene emulsionantes: lecitina de girasol, lecitina de\nsoja\n], concentrado de proteína de\nleche\n, aislado de proteína de lactosuero (\nleche\n) [contiene emulsionantes: lecitina de girasol, lecitina de\nsoja\n]), cacao en polvo bajo en grasa, harina de\navena\n(8%), inulina (8%), L-glutamina (2%), linaza en polvo (\nLinum usitatissimum\n) (2%), preparado de ALC (triglicérido de ácido linoleico conjugado (de aceite de cártamo), sólidos de jarabe de maíz, proteínas de\nleche\n, estabilizante (fosfato dipotásico), antiaglomerante (dióxido de silicio), antioxidante (tocoferoles mixtos)), saborizante, extracto de té verde (\nCamellia sinensis\n), espesante (goma xantana), bitartrato de DL-colina en polvo (bitartrato de colina, antiaglomerante (dióxido de silicio)), edulcorante (sucralosa), DigeZyme™ (proteasa, amilasa, beta-D-galactosidasa, lipasa, celulasa).",
+    "e_numeros_detectados": [
+      "E-322"
+    ],
+    "e_numeros_esperados": [
+      "E-122",
+      "E-142",
+      "E-172",
+      "E-322",
+      "E-335",
+      "E-336",
+      "E-415",
+      "E-416",
+      "E-479",
+      "E-529",
+      "E-530",
+      "E-541",
+      "E-551",
+      "E-955"
+    ],
+    "verdaderos_positivos": [
+      "E-322"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-122",
+      "E-142",
+      "E-172",
+      "E-335",
+      "E-336",
+      "E-415",
+      "E-416",
+      "E-479",
+      "E-529",
+      "E-530",
+      "E-541",
+      "E-551",
+      "E-955"
+    ],
+    "precision": 1.0,
+    "recall": 0.07142857142857142,
+    "f1_score": 0.13333333333333333
+  },
+  {
+    "producto": "Gominolas de reishi - 60Gominolas - Frutas del Bosque",
+    "ean": "PRERELEASE",
+    "texto_ingredientes": ": Proteínas de\nleche\n(20%), isomalto-oligosacáridos (una fuente de glucosa), humectante (glicerina vegetal), trocitos de proteína de soja (11%) (aislado de proteína de\nsoja\n, almidón de tapioca, cacao en polvo, sal), cobertura con",
+    "e_numeros_detectados": [
+      "E-422"
+    ],
+    "e_numeros_esperados": [
+      "E-422"
+    ],
+    "verdaderos_positivos": [
+      "E-422"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [],
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0
+  },
+  {
+    "producto": "Creatina Monohidrato en polvo - 500g - 111raciones - Berry Burst",
+    "ean": "5055534364949",
+    "texto_ingredientes": "FRUTOS ROJOS\n: Monohidrato de creatina, aroma, ácido (ácido cítrico), color (rojo de remolacha), edulcorante (sucralosa).",
+    "e_numeros_detectados": [
+      "E-330",
+      "E-955"
+    ],
+    "e_numeros_esperados": [
+      "E-122",
+      "E-128",
+      "E-330",
+      "E-955"
+    ],
+    "verdaderos_positivos": [
+      "E-330",
+      "E-955"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-122",
+      "E-128"
+    ],
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1_score": 0.6666666666666666
+  },
+  {
+    "producto": "Mezcla Pre-Entreno - 500G - 43raciones - Frambuesa Azul",
+    "ean": "5056185715333",
+    "texto_ingredientes": "DL-malato de L-citrulina 2:1, beta-alanina, L-arginina alfa-cetoglutarato 2:1, L-tirosina, taurina, betaína, aroma, antiaglomerantes (dióxido de silicio, silicato cálcico), edulcorantes (sucralosa, acesulfamo K), ácidos (ácido cítrico, ácido málico), maltodextrina, cafeína anhidra, extracto de semilla de guaraná (\nPaullinia cupana\n), vitamina C, extracto de espirulina, sal, niacina, vitamina B6, vitamina B12, vitamina B1, vitamina B2.",
+    "e_numeros_detectados": [
+      "E-172",
+      "E-330",
+      "E-551",
+      "E-552",
+      "E-955"
+    ],
+    "e_numeros_esperados": [
+      "E-122",
+      "E-1400",
+      "E-172",
+      "E-296",
+      "E-330",
+      "E-529",
+      "E-530",
+      "E-551",
+      "E-552",
+      "E-955"
+    ],
+    "verdaderos_positivos": [
+      "E-172",
+      "E-330",
+      "E-551",
+      "E-552",
+      "E-955"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-122",
+      "E-1400",
+      "E-296",
+      "E-529",
+      "E-530"
+    ],
+    "precision": 1.0,
+    "recall": 0.5,
+    "f1_score": 0.6666666666666666
+  },
+  {
+    "producto": "Mantequilla de Anacardos Natural - 1kg - Original Crocante",
+    "ean": "5055534325124",
+    "texto_ingredientes": ": Tostados\nAnacardos\n(95.5%), Aceite de girasol, Aroma de Vainilla.",
+    "e_numeros_detectados": [],
+    "e_numeros_esperados": [],
+    "verdaderos_positivos": [],
+    "falsos_positivos": [],
+    "falsos_negativos": [],
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0
+  },
+  {
+    "producto": "ACETIL L-CARNITINA 500mg",
+    "ean": 733739000767.0,
+    "texto_ingredientes": "Clorhidrato de acetil L-carnitina, cápsula vegetal [agente de recubrimiento (hidroxipropilmetilcelulosa)], harina de arroz, antiaglomerantes [ácidos grasos (fuente vegetal), dióxido de silicio].",
+    "e_numeros_detectados": [
+      "E-464",
+      "E-470B"
+    ],
+    "e_numeros_esperados": [
+      "E-122",
+      "E-172",
+      "E-460",
+      "E-461",
+      "E-462",
+      "E-464",
+      "E-470",
+      "E-470B",
+      "E-471",
+      "E-472",
+      "E-473",
+      "E-474",
+      "E-475",
+      "E-476",
+      "E-477",
+      "E-478",
+      "E-529",
+      "E-530",
+      "E-551",
+      "E-570"
+    ],
+    "verdaderos_positivos": [
+      "E-464",
+      "E-470B"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-122",
+      "E-172",
+      "E-460",
+      "E-461",
+      "E-462",
+      "E-470",
+      "E-471",
+      "E-472",
+      "E-473",
+      "E-474",
+      "E-475",
+      "E-476",
+      "E-477",
+      "E-478",
+      "E-529",
+      "E-530",
+      "E-551",
+      "E-570"
+    ],
+    "precision": 1.0,
+    "recall": 0.1,
+    "f1_score": 0.18181818181818182
+  },
+  {
+    "producto": "Creatina Monohidrato en polvo - 500g - 147raciones - Sin Sabor",
+    "ean": "5055534302019",
+    "texto_ingredientes": ": Monohidrato de creatina.",
+    "e_numeros_detectados": [],
+    "e_numeros_esperados": [],
+    "verdaderos_positivos": [],
+    "falsos_positivos": [],
+    "falsos_negativos": [],
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0
+  },
+  {
+    "producto": "Retinol - 30Cápsulas de gel",
+    "ean": "5056307388612",
+    "texto_ingredientes": "Puede contener leche.\nAceite de Girasol, Vitamina A (Contiene Antioxidante (DL-Alfa Tocoferol)), Cápsula Blanda (Gelatina Bovina, Humectante (Glicerol), Agua).",
+    "e_numeros_detectados": [],
+    "e_numeros_esperados": [
+      "E-479"
+    ],
+    "verdaderos_positivos": [],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-479"
+    ],
+    "precision": 1.0,
+    "recall": 0.0,
+    "f1_score": 0.0
+  },
+  {
+    "producto": "Clear Whey Protein - MARVEL - 20raciones - Hulk - Green Plum & Kiwi",
+    "ean": "PRERELEASE",
+    "texto_ingredientes": ": Proteínas de\nleche\n(20%), isomalto-oligosacáridos (una fuente de glucosa), humectante (glicerina vegetal), trocitos de proteína de soja (11%) (aislado de proteína de\nsoja\n, almidón de tapioca, cacao en polvo, sal), cobertura con",
+    "e_numeros_detectados": [
+      "E-422"
+    ],
+    "e_numeros_esperados": [
+      "E-422"
+    ],
+    "verdaderos_positivos": [
+      "E-422"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [],
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0
+  },
+  {
+    "producto": "CASEÍNA MICELAR",
+    "ean": 5060326273651.0,
+    "texto_ingredientes": "Caseína micelar ( leche ).",
+    "e_numeros_detectados": [],
+    "e_numeros_esperados": [],
+    "verdaderos_positivos": [],
+    "falsos_positivos": [],
+    "falsos_negativos": [],
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0
+  },
+  {
+    "producto": "HIERRO LIPOSOMADO (LipoCellTech™) (30mg HIERRO)",
+    "ean": 5056329524661.0,
+    "texto_ingredientes": "Harina de arroz, hierro liposomado [pirofosfato férrico, fosfolípidos], cápsula vegetal [agente de recubrimiento (hidroxipropilmetilcelulosa)], antiaglomerante (sales magnésicas de ácidos grasos).",
+    "e_numeros_detectados": [
+      "E-464",
+      "E-470B"
+    ],
+    "e_numeros_esperados": [
+      "E-122",
+      "E-460",
+      "E-461",
+      "E-462",
+      "E-464",
+      "E-470",
+      "E-470B",
+      "E-471",
+      "E-472",
+      "E-473",
+      "E-474",
+      "E-475",
+      "E-476",
+      "E-477",
+      "E-478",
+      "E-524",
+      "E-528",
+      "E-541",
+      "E-570"
+    ],
+    "verdaderos_positivos": [
+      "E-464",
+      "E-470B"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-122",
+      "E-460",
+      "E-461",
+      "E-462",
+      "E-470",
+      "E-471",
+      "E-472",
+      "E-473",
+      "E-474",
+      "E-475",
+      "E-476",
+      "E-477",
+      "E-478",
+      "E-524",
+      "E-528",
+      "E-541",
+      "E-570"
+    ],
+    "precision": 1.0,
+    "recall": 0.10526315789473684,
+    "f1_score": 0.19047619047619047
+  },
+  {
+    "producto": "Mezcla de Proteína Vegana - 500g - Sin Sabor",
+    "ean": "5055534369043",
+    "texto_ingredientes": "INGREDIENTES: Mezcla de proteína vegana (100%) (aislado de proteína de guisante, aislado de proteína de haba).",
+    "e_numeros_detectados": [],
+    "e_numeros_esperados": [],
+    "verdaderos_positivos": [],
+    "falsos_positivos": [],
+    "falsos_negativos": [],
+    "precision": 1.0,
+    "recall": 1.0,
+    "f1_score": 1.0
+  },
+  {
+    "producto": "Clear Whey Gainer - 15raciones - Manzana",
+    "ean": "5060746526382",
+    "texto_ingredientes": "mezcla de carbohidratos (52%) (maltodextrina, almidón de patata), aislado de proteína de lactosuero hidrolizada (\nleche\n) (31%), MCT en polvo (7%) (triglicéridos de cadena media (aceite de palmiste), proteínas de la\nleche\n, estabilizante (fosfato dipotásico)), L-glutamina, monohidrato de creatina, saborizante natural, zumo de manzana en polvo, corrector de acidez (ácido fosfórico), edulcorantes (sucralosa, acesulfamo K), mezcla de vitaminas y minerales (óxido de magnesio, vitamina C, fumarato ferroso, vitamina E, niacina, óxido de zinc, vitamina A, yoduro de potasio, vitamina B12, ácido fólico, vitamina D3, vitamina B6, tiamina, riboflavina), extracto de espirulina, DigeZyme\nTM\n(amilasa, lactasa, celulasa, proteasa, lipasa), extracto de aceite de cúrcuma, antiespumantes (dimetilpolisiloxano, dióxido de silicio).",
+    "e_numeros_detectados": [
+      "E-900",
+      "E-955"
+    ],
+    "e_numeros_esperados": [
+      "E-101",
+      "E-122",
+      "E-1400",
+      "E-1401",
+      "E-172",
+      "E-202",
+      "E-228",
+      "E-479",
+      "E-529",
+      "E-530",
+      "E-541",
+      "E-551",
+      "E-900",
+      "E-950",
+      "E-955"
+    ],
+    "verdaderos_positivos": [
+      "E-900",
+      "E-955"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-101",
+      "E-122",
+      "E-1400",
+      "E-1401",
+      "E-172",
+      "E-202",
+      "E-228",
+      "E-479",
+      "E-529",
+      "E-530",
+      "E-541",
+      "E-551",
+      "E-950"
+    ],
+    "precision": 1.0,
+    "recall": 0.13333333333333333,
+    "f1_score": 0.23529411764705882
+  },
+  {
+    "producto": "Clear Protein Water - RTD (pack de 6 unidades) - 6 Pack - Té de Melocotón",
+    "ean": "5059883098166",
+    "texto_ingredientes": ": agua, aislado de proteína de lactosuero (\nleche\n), saborizante natural de melocotón, saborizante natural de té, extracto de malta de\ncebada\n, reguladores de la acidez (citrato trisódico, ácido fosfórico), edulcorante (sucralosa).",
+    "e_numeros_detectados": [
+      "E-332",
+      "E-333"
+    ],
+    "e_numeros_esperados": [
+      "E-122",
+      "E-331",
+      "E-332",
+      "E-333",
+      "E-955"
+    ],
+    "verdaderos_positivos": [
+      "E-332",
+      "E-333"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-122",
+      "E-331",
+      "E-955"
+    ],
+    "precision": 1.0,
+    "recall": 0.4,
+    "f1_score": 0.5714285714285714
+  },
+  {
+    "producto": "NIACINA (VITAMINA B3) FLUSH-FREE 250mg",
+    "ean": 733739004840.0,
+    "texto_ingredientes": "Niacina (vitamina B3) (de 640 mg de hexanicotinato de inositol), inositol  (de 640mg de hexanicotinato de inositol), harina de arroz, agente de recubrimiento [celulosa (cápsula)], estabilizante (polvo de celulosa), antiaglomerante [ácido esteárico (fuente vegetal)], espesante (goma guar), antiaglomerantes [dióxido de silicio, sales magnésicas de ácidos grasos (fuente vegetal)].",
+    "e_numeros_detectados": [
+      "E-412",
+      "E-470B",
+      "E-551",
+      "E-640"
+    ],
+    "e_numeros_esperados": [
+      "E-122",
+      "E-172",
+      "E-412",
+      "E-416",
+      "E-460",
+      "E-470",
+      "E-470B",
+      "E-471",
+      "E-472",
+      "E-473",
+      "E-474",
+      "E-475",
+      "E-476",
+      "E-477",
+      "E-478",
+      "E-529",
+      "E-530",
+      "E-551",
+      "E-570",
+      "E-640",
+      "E-640M"
+    ],
+    "verdaderos_positivos": [
+      "E-412",
+      "E-470B",
+      "E-551",
+      "E-640"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-122",
+      "E-172",
+      "E-416",
+      "E-460",
+      "E-470",
+      "E-471",
+      "E-472",
+      "E-473",
+      "E-474",
+      "E-475",
+      "E-476",
+      "E-477",
+      "E-478",
+      "E-529",
+      "E-530",
+      "E-570",
+      "E-640M"
+    ],
+    "precision": 1.0,
+    "recall": 0.19047619047619047,
+    "f1_score": 0.32
+  },
+  {
+    "producto": "Total Protein - 1kg - Crema de Chocolate",
+    "ean": "5056104571880",
+    "texto_ingredientes": ": Mezcla de Proteínas (96%) (Concentrado de Proteína de Suero\n[Leche]\n(Emulgente (Lecitina de\nSoja\n), Aislado de Porteína de Suero\n[Leche]\n(Emulgente (Lecitina de\nSoja\n)), Proteína de Suero Hidrolizada\n[Leche]\n, Concentrado de Proteína de\nLeche\n, Caseína Micelar\n[Leche]\n, Caseinato de Calcio\n[Leche]\n(Caseína Ácida\n[Leche]\n, Hidróxido de Calcio, Carbonato de Sodio) , Clara en Polvo de\nHuevos\nde Corral), Aromatizantes (Cacao Reducido en Grasas, Aromatizantes, Edulcorante [Sucralosa]), Cacao en Polvo Reducido en Grasas, Agente Espesante (Goma Xantana)",
+    "e_numeros_detectados": [
+      "E-170",
+      "E-322"
+    ],
+    "e_numeros_esperados": [
+      "E-122",
+      "E-170",
+      "E-172",
+      "E-219",
+      "E-322",
+      "E-415",
+      "E-416",
+      "E-479",
+      "E-500",
+      "E-529",
+      "E-530",
+      "E-955"
+    ],
+    "verdaderos_positivos": [
+      "E-170",
+      "E-322"
+    ],
+    "falsos_positivos": [],
+    "falsos_negativos": [
+      "E-122",
+      "E-172",
+      "E-219",
+      "E-415",
+      "E-416",
+      "E-479",
+      "E-500",
+      "E-529",
+      "E-530",
+      "E-955"
+    ],
+    "precision": 1.0,
+    "recall": 0.16666666666666666,
+    "f1_score": 0.2857142857142857
+  }
+]

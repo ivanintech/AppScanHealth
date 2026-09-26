@@ -1,0 +1,28 @@
+{
+  "model_type": "TF-IDF + Cosine Similarity",
+  "model_data": {
+    "algorithm": "TF-IDF + Cosine Similarity",
+    "accuracy": 0.8171556280728787,
+    "lastTrained": "2025-10-04T09:52:27.637Z",
+    "isTrained": true
+  },
+  "model_metadata": {
+    "name": "Content-Based Filtering",
+    "type": "recommendation",
+    "algorithm": "TF-IDF + Cosine Similarity",
+    "accuracy": 0.8171556280728787,
+    "lastTrained": "2025-10-04T09:52:27.637Z",
+    "isTrained": true,
+    "savedAt": "2025-10-04T09:52:27.646Z",
+    "version": "1.0.0",
+    "format": "pickle_simulated"
+  },
+  "model_weights": {},
+  "model_config": {
+    "algorithm": "TF-IDF + Cosine Similarity",
+    "parameters": {},
+    "features": [],
+    "preprocessing": {},
+    "postprocessing": {}
+  }
+}

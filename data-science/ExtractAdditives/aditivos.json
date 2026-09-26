@@ -1,0 +1,1897 @@
+[
+  {
+    "e_numero": "E100",
+    "tipo": "Baja",
+    "nombre_original": "Curcuminas"
+  },
+  {
+    "e_numero": "E101",
+    "tipo": "Baja",
+    "nombre_original": "Riboflavinas"
+  },
+  {
+    "e_numero": "E102",
+    "tipo": "Alta",
+    "nombre_original": "Tartracina"
+  },
+  {
+    "e_numero": "E103",
+    "tipo": "Alta",
+    "nombre_original": "Crisoína"
+  },
+  {
+    "e_numero": "E104",
+    "tipo": "Media",
+    "nombre_original": "Amarillo de Quinoleína"
+  },
+  {
+    "e_numero": "E105",
+    "tipo": "Alta",
+    "nombre_original": "Amarillo Sólido"
+  },
+  {
+    "e_numero": "E107",
+    "tipo": "Alta",
+    "nombre_original": "Amarillo 2G"
+  },
+  {
+    "e_numero": "E110",
+    "tipo": "Alta",
+    "nombre_original": "Amarillo Ocaso FCF"
+  },
+  {
+    "e_numero": "E1100",
+    "tipo": "Media",
+    "nombre_original": "Amilasas"
+  },
+  {
+    "e_numero": "E1103",
+    "tipo": "Baja",
+    "nombre_original": "Invertasas"
+  },
+  {
+    "e_numero": "E1105",
+    "tipo": "Media",
+    "nombre_original": "Lisozima"
+  },
+  {
+    "e_numero": "E111",
+    "tipo": "Alta",
+    "nombre_original": "Naranja GGN"
+  },
+  {
+    "e_numero": "E120",
+    "tipo": "Alta",
+    "nombre_original": "Ácido Carmínico"
+  },
+  {
+    "e_numero": "E1200",
+    "tipo": "Baja",
+    "nombre_original": "Polidextrosas"
+  },
+  {
+    "e_numero": "E1201",
+    "tipo": "Alta",
+    "nombre_original": "Polivinilpirrolidona (PVP)"
+  },
+  {
+    "e_numero": "E1202",
+    "tipo": "Alta",
+    "nombre_original": "Polivinilpolipirrolidona (PVPP)"
+  },
+  {
+    "e_numero": "E1203",
+    "tipo": "Media",
+    "nombre_original": "Alcohol Polivinílico"
+  },
+  {
+    "e_numero": "E1204",
+    "tipo": "Baja",
+    "nombre_original": "Pululano"
+  },
+  {
+    "e_numero": "E1208",
+    "tipo": "Alta",
+    "nombre_original": "Copolímero de Acetato de Vinilo"
+  },
+  {
+    "e_numero": "E1209",
+    "tipo": "Media",
+    "nombre_original": "Copolímero de Injerto de Polivinialcohol (PVA) y Polietilenglicol (PVE)"
+  },
+  {
+    "e_numero": "E121",
+    "tipo": "Alta",
+    "nombre_original": "Rojo Cítrico 2"
+  },
+  {
+    "e_numero": "E122",
+    "tipo": "Alta",
+    "nombre_original": "Azorrubina"
+  },
+  {
+    "e_numero": "E123",
+    "tipo": "Alta",
+    "nombre_original": "Amaranto"
+  },
+  {
+    "e_numero": "E124",
+    "tipo": "Alta",
+    "nombre_original": "Ponceau 4R"
+  },
+  {
+    "e_numero": "E125",
+    "tipo": "Alta",
+    "nombre_original": "Ponceau SX"
+  },
+  {
+    "e_numero": "E126",
+    "tipo": "Alta",
+    "nombre_original": "Ponceau 6R"
+  },
+  {
+    "e_numero": "E127",
+    "tipo": "Alta",
+    "nombre_original": "Eritrosina"
+  },
+  {
+    "e_numero": "E128",
+    "tipo": "Alta",
+    "nombre_original": "Rojo 2G"
+  },
+  {
+    "e_numero": "E129",
+    "tipo": "Alta",
+    "nombre_original": "Rojo Allura AC"
+  },
+  {
+    "e_numero": "E130",
+    "tipo": "Alta",
+    "nombre_original": "Azul de Antraquinona"
+  },
+  {
+    "e_numero": "E131",
+    "tipo": "Alta",
+    "nombre_original": "Azul Patente V"
+  },
+  {
+    "e_numero": "E132",
+    "tipo": "Media",
+    "nombre_original": "Indigotina"
+  },
+  {
+    "e_numero": "E133",
+    "tipo": "Alta",
+    "nombre_original": "Azul Brillante FCF"
+  },
+  {
+    "e_numero": "E140",
+    "tipo": "Baja",
+    "nombre_original": "Clorofilas y Clorofilinas"
+  },
+  {
+    "e_numero": "E1400",
+    "tipo": "Media",
+    "nombre_original": "Dextrinas"
+  },
+  {
+    "e_numero": "E1401",
+    "tipo": "Media",
+    "nombre_original": "Almidón Ácido"
+  },
+  {
+    "e_numero": "E1402",
+    "tipo": "Media",
+    "nombre_original": "Almidón Alcalino"
+  },
+  {
+    "e_numero": "E1403",
+    "tipo": "Media",
+    "nombre_original": "Almidón Blanqueado"
+  },
+  {
+    "e_numero": "E1404",
+    "tipo": "Media",
+    "nombre_original": "Almidón Oxidado"
+  },
+  {
+    "e_numero": "E1405",
+    "tipo": "Media",
+    "nombre_original": "Almidón Enzimático"
+  },
+  {
+    "e_numero": "E141",
+    "tipo": "Baja",
+    "nombre_original": "Complejos Cúpricos de Clorofilas y Clorofilinas"
+  },
+  {
+    "e_numero": "E1410",
+    "tipo": "Media",
+    "nombre_original": "Fosfato de Monoalmidón"
+  },
+  {
+    "e_numero": "E1412",
+    "tipo": "Media",
+    "nombre_original": "Fosfato de Dialmidón"
+  },
+  {
+    "e_numero": "E1413",
+    "tipo": "Media",
+    "nombre_original": "Fosfato de Dialmidón Fosfatado"
+  },
+  {
+    "e_numero": "E1414",
+    "tipo": "Media",
+    "nombre_original": "Fosfato de Dialmidón Acetilado"
+  },
+  {
+    "e_numero": "E142",
+    "tipo": "Alta",
+    "nombre_original": "Verde S"
+  },
+  {
+    "e_numero": "E1420",
+    "tipo": "Media",
+    "nombre_original": "Almidón Acetilado"
+  },
+  {
+    "e_numero": "E1422",
+    "tipo": "Media",
+    "nombre_original": "Adipato de Dialmidón Acetilado"
+  },
+  {
+    "e_numero": "E143",
+    "tipo": "Alta",
+    "nombre_original": "Verde Sólido FCF"
+  },
+  {
+    "e_numero": "E1440",
+    "tipo": "Media",
+    "nombre_original": "Hidroxipropil-Almidón"
+  },
+  {
+    "e_numero": "E1441",
+    "tipo": "Media",
+    "nombre_original": "Glicerona de Dialmidón Hidroxipropilado"
+  },
+  {
+    "e_numero": "E1442",
+    "tipo": "Media",
+    "nombre_original": "Fosfato de Dialmidón Hidroxipropilado"
+  },
+  {
+    "e_numero": "E1450",
+    "tipo": "Media",
+    "nombre_original": "Octenil-Succinato Sódico de Almidón"
+  },
+  {
+    "e_numero": "E1451",
+    "tipo": "Media",
+    "nombre_original": "Almidón Oxidado Acetilado"
+  },
+  {
+    "e_numero": "E1452",
+    "tipo": "Media",
+    "nombre_original": "Octenil-Succinato Alumínico de Almidón"
+  },
+  {
+    "e_numero": "E150",
+    "tipo": "Media",
+    "nombre_original": "Caramelos"
+  },
+  {
+    "e_numero": "E1503",
+    "tipo": "Media",
+    "nombre_original": "Aceite de Ricino"
+  },
+  {
+    "e_numero": "E1505",
+    "tipo": "Media",
+    "nombre_original": "Citrato Trietílico"
+  },
+  {
+    "e_numero": "E151",
+    "tipo": "Alta",
+    "nombre_original": "Negro Brillante BN"
+  },
+  {
+    "e_numero": "E1516",
+    "tipo": "Baja",
+    "nombre_original": "Monoacetato de Glicerilo"
+  },
+  {
+    "e_numero": "E1517",
+    "tipo": "Baja",
+    "nombre_original": "Diacetato de Glicerilo"
+  },
+  {
+    "e_numero": "E1518",
+    "tipo": "Baja",
+    "nombre_original": "Triacetato de Glicerilo"
+  },
+  {
+    "e_numero": "E1519",
+    "tipo": "Media",
+    "nombre_original": "Alcohol Bencílico"
+  },
+  {
+    "e_numero": "E152",
+    "tipo": "Alta",
+    "nombre_original": "Negro 7984"
+  },
+  {
+    "e_numero": "E1520",
+    "tipo": "Baja",
+    "nombre_original": "Propilenglicol"
+  },
+  {
+    "e_numero": "E1521",
+    "tipo": "Alta",
+    "nombre_original": "Polietilenglicol"
+  },
+  {
+    "e_numero": "E153",
+    "tipo": "Baja",
+    "nombre_original": "Carbón Vegetal"
+  },
+  {
+    "e_numero": "E154",
+    "tipo": "Alta",
+    "nombre_original": "Marrón FK"
+  },
+  {
+    "e_numero": "E155",
+    "tipo": "Alta",
+    "nombre_original": "Marrón HT"
+  },
+  {
+    "e_numero": "E160",
+    "tipo": "Baja",
+    "nombre_original": "Carotenos"
+  },
+  {
+    "e_numero": "E161",
+    "tipo": "Media",
+    "nombre_original": "Xantófilas"
+  },
+  {
+    "e_numero": "E162",
+    "tipo": "Baja",
+    "nombre_original": "Rojo de Remolacha"
+  },
+  {
+    "e_numero": "E163",
+    "tipo": "Baja",
+    "nombre_original": "Antocianinas"
+  },
+  {
+    "e_numero": "E165",
+    "tipo": "Alta",
+    "nombre_original": "Azul de Gardenia"
+  },
+  {
+    "e_numero": "E170",
+    "tipo": "Baja",
+    "nombre_original": "Carbonatos Cálcicos"
+  },
+  {
+    "e_numero": "E171",
+    "tipo": "Alta",
+    "nombre_original": "Dióxido de Titanio"
+  },
+  {
+    "e_numero": "E172",
+    "tipo": "Baja",
+    "nombre_original": "Óxidos e Hidróxidos Férricos"
+  },
+  {
+    "e_numero": "E173",
+    "tipo": "Alta",
+    "nombre_original": "Aluminio Comestible"
+  },
+  {
+    "e_numero": "E174",
+    "tipo": "Alta",
+    "nombre_original": "Plata Comestible"
+  },
+  {
+    "e_numero": "E175",
+    "tipo": "Alta",
+    "nombre_original": "Oro Comestible"
+  },
+  {
+    "e_numero": "E180",
+    "tipo": "Alta",
+    "nombre_original": "Litolrubina BK"
+  },
+  {
+    "e_numero": "E182",
+    "tipo": "Alta",
+    "nombre_original": "Orceína"
+  },
+  {
+    "e_numero": "E200",
+    "tipo": "Baja",
+    "nombre_original": "Ácido Sórbico"
+  },
+  {
+    "e_numero": "E201",
+    "tipo": "Baja",
+    "nombre_original": "Sorbato Sódico"
+  },
+  {
+    "e_numero": "E202",
+    "tipo": "Baja",
+    "nombre_original": "Sorbato Potásico"
+  },
+  {
+    "e_numero": "E203",
+    "tipo": "Media",
+    "nombre_original": "Sorbato Cálcico"
+  },
+  {
+    "e_numero": "E210",
+    "tipo": "Alta",
+    "nombre_original": "Ácido Benzoico"
+  },
+  {
+    "e_numero": "E211",
+    "tipo": "Alta",
+    "nombre_original": "Benzoato Sódico"
+  },
+  {
+    "e_numero": "E212",
+    "tipo": "Alta",
+    "nombre_original": "Benzoato Potásico"
+  },
+  {
+    "e_numero": "E213",
+    "tipo": "Alta",
+    "nombre_original": "Benzoato Cálcico"
+  },
+  {
+    "e_numero": "E214",
+    "tipo": "Alta",
+    "nombre_original": "Para-Hidroxibenzoato de Etilo"
+  },
+  {
+    "e_numero": "E215",
+    "tipo": "Alta",
+    "nombre_original": "Para-Hidroxibenzoato Sódico de Etilo"
+  },
+  {
+    "e_numero": "E216",
+    "tipo": "Alta",
+    "nombre_original": "Para-Hidroxibenzoato de Propilo"
+  },
+  {
+    "e_numero": "E217",
+    "tipo": "Alta",
+    "nombre_original": "Para-Hidroxibenzoato Sódico de Propilo"
+  },
+  {
+    "e_numero": "E218",
+    "tipo": "Alta",
+    "nombre_original": "Para-Hidroxibenzoato de Metilo"
+  },
+  {
+    "e_numero": "E219",
+    "tipo": "Alta",
+    "nombre_original": "Para-Hidroxibenzoato Sódico de Metilo"
+  },
+  {
+    "e_numero": "E220",
+    "tipo": "Alta",
+    "nombre_original": "Dióxido de Azufre"
+  },
+  {
+    "e_numero": "E221",
+    "tipo": "Alta",
+    "nombre_original": "Sulfito Sódico"
+  },
+  {
+    "e_numero": "E222",
+    "tipo": "Alta",
+    "nombre_original": "Bisulfito Sódico"
+  },
+  {
+    "e_numero": "E223",
+    "tipo": "Alta",
+    "nombre_original": "Metabisulfito Sódico"
+  },
+  {
+    "e_numero": "E224",
+    "tipo": "Alta",
+    "nombre_original": "Metabisulfito Potásico"
+  },
+  {
+    "e_numero": "E225",
+    "tipo": "Alta",
+    "nombre_original": "Sulfito Potásico"
+  },
+  {
+    "e_numero": "E226",
+    "tipo": "Alta",
+    "nombre_original": "Sulfito Cálcico"
+  },
+  {
+    "e_numero": "E227",
+    "tipo": "Alta",
+    "nombre_original": "Bisulfito Cálcico"
+  },
+  {
+    "e_numero": "E228",
+    "tipo": "Alta",
+    "nombre_original": "Bisulfito Potásico"
+  },
+  {
+    "e_numero": "E230",
+    "tipo": "Alta",
+    "nombre_original": "Bifenilo"
+  },
+  {
+    "e_numero": "E231",
+    "tipo": "Alta",
+    "nombre_original": "Ortofenilfenol"
+  },
+  {
+    "e_numero": "E232",
+    "tipo": "Alta",
+    "nombre_original": "Ortofenilfenol Sódico"
+  },
+  {
+    "e_numero": "E233",
+    "tipo": "Alta",
+    "nombre_original": "Tiabendazol"
+  },
+  {
+    "e_numero": "E234",
+    "tipo": "Baja",
+    "nombre_original": "Nisina"
+  },
+  {
+    "e_numero": "E235",
+    "tipo": "Baja",
+    "nombre_original": "Natamicina"
+  },
+  {
+    "e_numero": "E236",
+    "tipo": "Alta",
+    "nombre_original": "Ácido Fórmico"
+  },
+  {
+    "e_numero": "E237",
+    "tipo": "Alta",
+    "nombre_original": "Formiato Sódico"
+  },
+  {
+    "e_numero": "E238",
+    "tipo": "Alta",
+    "nombre_original": "Formiato Cálcico"
+  },
+  {
+    "e_numero": "E239",
+    "tipo": "Alta",
+    "nombre_original": "Hexametilentetramina"
+  },
+  {
+    "e_numero": "E240",
+    "tipo": "Alta",
+    "nombre_original": "Formaldehído"
+  },
+  {
+    "e_numero": "E242",
+    "tipo": "Alta",
+    "nombre_original": "Dimetil Dicarbonato"
+  },
+  {
+    "e_numero": "E243",
+    "tipo": "Baja",
+    "nombre_original": "Etil-Lauroil Arginato"
+  },
+  {
+    "e_numero": "E249",
+    "tipo": "Alta",
+    "nombre_original": "Nitrito Potásico"
+  },
+  {
+    "e_numero": "E250",
+    "tipo": "Alta",
+    "nombre_original": "Nitrito Sódico"
+  },
+  {
+    "e_numero": "E251",
+    "tipo": "Media",
+    "nombre_original": "Nitrato Sódico"
+  },
+  {
+    "e_numero": "E252",
+    "tipo": "Media",
+    "nombre_original": "Nitrato Potásico"
+  },
+  {
+    "e_numero": "E260",
+    "tipo": "Baja",
+    "nombre_original": "Ácido Acético"
+  },
+  {
+    "e_numero": "E261",
+    "tipo": "Baja",
+    "nombre_original": "Acetatos Potásicos"
+  },
+  {
+    "e_numero": "E262",
+    "tipo": "Baja",
+    "nombre_original": "Acetatos Sódicos"
+  },
+  {
+    "e_numero": "E263",
+    "tipo": "Baja",
+    "nombre_original": "Acetato Cálcico"
+  },
+  {
+    "e_numero": "E264",
+    "tipo": "Baja",
+    "nombre_original": "Acetato Amónico"
+  },
+  {
+    "e_numero": "E270",
+    "tipo": "Baja",
+    "nombre_original": "Ácido Láctico"
+  },
+  {
+    "e_numero": "E280",
+    "tipo": "Alta",
+    "nombre_original": "Ácido Propiónico"
+  },
+  {
+    "e_numero": "E281",
+    "tipo": "Alta",
+    "nombre_original": "Propionato Sódico"
+  },
+  {
+    "e_numero": "E282",
+    "tipo": "Alta",
+    "nombre_original": "Propionato Cálcico"
+  },
+  {
+    "e_numero": "E283",
+    "tipo": "Alta",
+    "nombre_original": "Propionato Potásico"
+  },
+  {
+    "e_numero": "E284",
+    "tipo": "Alta",
+    "nombre_original": "Ácido Bórico"
+  },
+  {
+    "e_numero": "E285",
+    "tipo": "Alta",
+    "nombre_original": "Tetraborato Sódico"
+  },
+  {
+    "e_numero": "E290",
+    "tipo": "Baja",
+    "nombre_original": "Dióxido de Carbono (CO2)"
+  },
+  {
+    "e_numero": "E296",
+    "tipo": "Media",
+    "nombre_original": "Ácido Málico"
+  },
+  {
+    "e_numero": "E297",
+    "tipo": "Baja",
+    "nombre_original": "Ácido Fumárico"
+  },
+  {
+    "e_numero": "E300",
+    "tipo": "Baja",
+    "nombre_original": "Ácido Ascórbico"
+  },
+  {
+    "e_numero": "E301",
+    "tipo": "Baja",
+    "nombre_original": "Ascorbato Sódico"
+  },
+  {
+    "e_numero": "E302",
+    "tipo": "Baja",
+    "nombre_original": "Ascorbato Cálcico"
+  },
+  {
+    "e_numero": "E303",
+    "tipo": "Baja",
+    "nombre_original": "Ascorbato Potásico"
+  },
+  {
+    "e_numero": "E304",
+    "tipo": "Baja",
+    "nombre_original": "Ésteres de Ácidos Grasos del Ácido Ascórbico"
+  },
+  {
+    "e_numero": "E306",
+    "tipo": "Baja",
+    "nombre_original": "Extractos Naturales Ricos en Tocoferoles"
+  },
+  {
+    "e_numero": "E307",
+    "tipo": "Baja",
+    "nombre_original": "Alfa-Tocoferol"
+  },
+  {
+    "e_numero": "E308",
+    "tipo": "Baja",
+    "nombre_original": "Gamma-Tocoferol"
+  },
+  {
+    "e_numero": "E309",
+    "tipo": "Baja",
+    "nombre_original": "Delta-Tocoferol"
+  },
+  {
+    "e_numero": "E310",
+    "tipo": "Alta",
+    "nombre_original": "Galato de Propilo"
+  },
+  {
+    "e_numero": "E311",
+    "tipo": "Alta",
+    "nombre_original": "Galato de Octilo"
+  },
+  {
+    "e_numero": "E312",
+    "tipo": "Alta",
+    "nombre_original": "Galato de Dodecilo"
+  },
+  {
+    "e_numero": "E315",
+    "tipo": "Baja",
+    "nombre_original": "Ácido Eritórbico"
+  },
+  {
+    "e_numero": "E316",
+    "tipo": "Baja",
+    "nombre_original": "Eritorbato Sódico"
+  },
+  {
+    "e_numero": "E319",
+    "tipo": "Alta",
+    "nombre_original": "Terbutilhidroquinona (TBHQ)"
+  },
+  {
+    "e_numero": "E320",
+    "tipo": "Alta",
+    "nombre_original": "Butilhidroxianisol (BHA)"
+  },
+  {
+    "e_numero": "E321",
+    "tipo": "Alta",
+    "nombre_original": "Butilhidroxitolueno (BHT)"
+  },
+  {
+    "e_numero": "E322",
+    "tipo": "Baja",
+    "nombre_original": "Lecitinas"
+  },
+  {
+    "e_numero": "E324",
+    "tipo": "Alta",
+    "nombre_original": "Etoxiquina"
+  },
+  {
+    "e_numero": "E325",
+    "tipo": "Baja",
+    "nombre_original": "Lactato Sódico"
+  },
+  {
+    "e_numero": "E326",
+    "tipo": "Baja",
+    "nombre_original": "Lactato Potásico"
+  },
+  {
+    "e_numero": "E327",
+    "tipo": "Baja",
+    "nombre_original": "Lactato Cálcico"
+  },
+  {
+    "e_numero": "E328",
+    "tipo": "Baja",
+    "nombre_original": "Lactato Amónico"
+  },
+  {
+    "e_numero": "E329",
+    "tipo": "Baja",
+    "nombre_original": "Lactato Magnésico"
+  },
+  {
+    "e_numero": "E330",
+    "tipo": "Baja",
+    "nombre_original": "Ácido Cítrico"
+  },
+  {
+    "e_numero": "E331",
+    "tipo": "Baja",
+    "nombre_original": "Citratos Sódicos"
+  },
+  {
+    "e_numero": "E332",
+    "tipo": "Baja",
+    "nombre_original": "Citratos Potásicos"
+  },
+  {
+    "e_numero": "E333",
+    "tipo": "Baja",
+    "nombre_original": "Citratos Cálcicos"
+  },
+  {
+    "e_numero": "E334",
+    "tipo": "Baja",
+    "nombre_original": "Ácido Tartárico"
+  },
+  {
+    "e_numero": "E335",
+    "tipo": "Baja",
+    "nombre_original": "Tartratos Sódicos"
+  },
+  {
+    "e_numero": "E336",
+    "tipo": "Baja",
+    "nombre_original": "Tartratos Potásicos"
+  },
+  {
+    "e_numero": "E337",
+    "tipo": "Baja",
+    "nombre_original": "Tartrato Sódico-Potásico"
+  },
+  {
+    "e_numero": "E338",
+    "tipo": "Media",
+    "nombre_original": "Ácido Fosfórico"
+  },
+  {
+    "e_numero": "E339",
+    "tipo": "Media",
+    "nombre_original": "Fosfatos Sódicos"
+  },
+  {
+    "e_numero": "E340",
+    "tipo": "Media",
+    "nombre_original": "Fosfatos Potásicos"
+  },
+  {
+    "e_numero": "E341",
+    "tipo": "Media",
+    "nombre_original": "Fosfatos Cálcicos"
+  },
+  {
+    "e_numero": "E342",
+    "tipo": "Media",
+    "nombre_original": "Fosfatos Amónicos"
+  },
+  {
+    "e_numero": "E343",
+    "tipo": "Media",
+    "nombre_original": "Fosfatos Magnésicos"
+  },
+  {
+    "e_numero": "E349",
+    "tipo": "Baja",
+    "nombre_original": "Malatos Amónicos"
+  },
+  {
+    "e_numero": "E350",
+    "tipo": "Baja",
+    "nombre_original": "Malatos Sódicos"
+  },
+  {
+    "e_numero": "E351",
+    "tipo": "Baja",
+    "nombre_original": "Malatos Potásicos"
+  },
+  {
+    "e_numero": "E352",
+    "tipo": "Baja",
+    "nombre_original": "Malatos Cálcicos"
+  },
+  {
+    "e_numero": "E353",
+    "tipo": "Baja",
+    "nombre_original": "Ácido Metatartárico"
+  },
+  {
+    "e_numero": "E354",
+    "tipo": "Baja",
+    "nombre_original": "Tartratos Cálcicos"
+  },
+  {
+    "e_numero": "E355",
+    "tipo": "Baja",
+    "nombre_original": "Ácido Adípico"
+  },
+  {
+    "e_numero": "E356",
+    "tipo": "Baja",
+    "nombre_original": "Adipato Sódico"
+  },
+  {
+    "e_numero": "E357",
+    "tipo": "Baja",
+    "nombre_original": "Adipato Potásico"
+  },
+  {
+    "e_numero": "E363",
+    "tipo": "Baja",
+    "nombre_original": "Ácido Succínico"
+  },
+  {
+    "e_numero": "E365",
+    "tipo": "Baja",
+    "nombre_original": "Fumarato Sódico"
+  },
+  {
+    "e_numero": "E366",
+    "tipo": "Baja",
+    "nombre_original": "Fumarato Potásico"
+  },
+  {
+    "e_numero": "E367",
+    "tipo": "Baja",
+    "nombre_original": "Fumarato Cálcico"
+  },
+  {
+    "e_numero": "E368",
+    "tipo": "Baja",
+    "nombre_original": "Fumarato Amónico"
+  },
+  {
+    "e_numero": "E369",
+    "tipo": "Baja",
+    "nombre_original": "Fumarato Magnésico"
+  },
+  {
+    "e_numero": "E370",
+    "tipo": "Alta",
+    "nombre_original": "Heptonolactona"
+  },
+  {
+    "e_numero": "E375",
+    "tipo": "Media",
+    "nombre_original": "Ácido Nicotínico"
+  },
+  {
+    "e_numero": "E380",
+    "tipo": "Baja",
+    "nombre_original": "Citrato Triamónico"
+  },
+  {
+    "e_numero": "E381",
+    "tipo": "Baja",
+    "nombre_original": "Citrato Amónico-Férrico"
+  },
+  {
+    "e_numero": "E385",
+    "tipo": "Alta",
+    "nombre_original": "Etileno Diamina Tetra Acetato (EDTA)"
+  },
+  {
+    "e_numero": "E386",
+    "tipo": "Alta",
+    "nombre_original": "Ácido Etileno Diamino Tetraacético (AEDT)"
+  },
+  {
+    "e_numero": "E392",
+    "tipo": "Baja",
+    "nombre_original": "Extractos de Romero"
+  },
+  {
+    "e_numero": "E400",
+    "tipo": "Baja",
+    "nombre_original": "Ácido Algínico"
+  },
+  {
+    "e_numero": "E401",
+    "tipo": "Baja",
+    "nombre_original": "Alginato Sódico"
+  },
+  {
+    "e_numero": "E402",
+    "tipo": "Baja",
+    "nombre_original": "Alginato Potásico"
+  },
+  {
+    "e_numero": "E403",
+    "tipo": "Baja",
+    "nombre_original": "Alginato Amónico"
+  },
+  {
+    "e_numero": "E404",
+    "tipo": "Baja",
+    "nombre_original": "Alginato Cálcico"
+  },
+  {
+    "e_numero": "E405",
+    "tipo": "Baja",
+    "nombre_original": "Alginato Propilenglicólico"
+  },
+  {
+    "e_numero": "E406",
+    "tipo": "Baja",
+    "nombre_original": "Agar-Agar"
+  },
+  {
+    "e_numero": "E407",
+    "tipo": "Alta",
+    "nombre_original": "Carragenanos"
+  },
+  {
+    "e_numero": "E410",
+    "tipo": "Baja",
+    "nombre_original": "Goma Garrofín"
+  },
+  {
+    "e_numero": "E412",
+    "tipo": "Baja",
+    "nombre_original": "Goma Guar"
+  },
+  {
+    "e_numero": "E413",
+    "tipo": "Baja",
+    "nombre_original": "Goma Tragacanto"
+  },
+  {
+    "e_numero": "E414",
+    "tipo": "Media",
+    "nombre_original": "Goma Arábiga"
+  },
+  {
+    "e_numero": "E415",
+    "tipo": "Media",
+    "nombre_original": "Goma Xantana"
+  },
+  {
+    "e_numero": "E416",
+    "tipo": "Baja",
+    "nombre_original": "Goma Karaya"
+  },
+  {
+    "e_numero": "E417",
+    "tipo": "Baja",
+    "nombre_original": "Goma Tara"
+  },
+  {
+    "e_numero": "E418",
+    "tipo": "Baja",
+    "nombre_original": "Goma Gellan"
+  },
+  {
+    "e_numero": "E420",
+    "tipo": "Media",
+    "nombre_original": "Sorbitoles"
+  },
+  {
+    "e_numero": "E421",
+    "tipo": "Media",
+    "nombre_original": "Manitoles"
+  },
+  {
+    "e_numero": "E422",
+    "tipo": "Baja",
+    "nombre_original": "Glicerol"
+  },
+  {
+    "e_numero": "E425",
+    "tipo": "Baja",
+    "nombre_original": "Konjac"
+  },
+  {
+    "e_numero": "E426",
+    "tipo": "Baja",
+    "nombre_original": "Hemicelulosa de Soja"
+  },
+  {
+    "e_numero": "E427",
+    "tipo": "Media",
+    "nombre_original": "Goma Casia"
+  },
+  {
+    "e_numero": "E428",
+    "tipo": "Media",
+    "nombre_original": "Gelatina Neutra"
+  },
+  {
+    "e_numero": "E430",
+    "tipo": "Alta",
+    "nombre_original": "Estearato de Polioxietileno 8"
+  },
+  {
+    "e_numero": "E431",
+    "tipo": "Alta",
+    "nombre_original": "Estearato de Polioxietileno 40"
+  },
+  {
+    "e_numero": "E432",
+    "tipo": "Alta",
+    "nombre_original": "Monolaurato de Sorbitán Polioxietinelado (Polisorbato 20)"
+  },
+  {
+    "e_numero": "E433",
+    "tipo": "Alta",
+    "nombre_original": "Monooleato de Sorbitán Polioxietinelado (Polisorbato 80)"
+  },
+  {
+    "e_numero": "E434",
+    "tipo": "Alta",
+    "nombre_original": "Monopalmitato de Sorbitán Polioxietinelado (Polisorbato 40)"
+  },
+  {
+    "e_numero": "E435",
+    "tipo": "Alta",
+    "nombre_original": "Monoestearato de Sorbitán Polioxietinelado (Polisorbato 60)"
+  },
+  {
+    "e_numero": "E436",
+    "tipo": "Alta",
+    "nombre_original": "Triestearato de Sorbitán Polioxietinelado (Polisorbato 65)"
+  },
+  {
+    "e_numero": "E440",
+    "tipo": "Baja",
+    "nombre_original": "Pectinas"
+  },
+  {
+    "e_numero": "E442",
+    "tipo": "Media",
+    "nombre_original": "Fosfátidos Amónicos"
+  },
+  {
+    "e_numero": "E443",
+    "tipo": "Alta",
+    "nombre_original": "Aceite Vegetal Bromado"
+  },
+  {
+    "e_numero": "E444",
+    "tipo": "Media",
+    "nombre_original": "Acetato Isobutírico de Sacarosa"
+  },
+  {
+    "e_numero": "E445",
+    "tipo": "Baja",
+    "nombre_original": "Ésteres Glicéridos de Colofonia"
+  },
+  {
+    "e_numero": "E450",
+    "tipo": "Media",
+    "nombre_original": "Difosfatos"
+  },
+  {
+    "e_numero": "E451",
+    "tipo": "Media",
+    "nombre_original": "Trifosfatos"
+  },
+  {
+    "e_numero": "E452",
+    "tipo": "Media",
+    "nombre_original": "Polifosfatos"
+  },
+  {
+    "e_numero": "E460",
+    "tipo": "Media",
+    "nombre_original": "Celulosas"
+  },
+  {
+    "e_numero": "E461",
+    "tipo": "Media",
+    "nombre_original": "Metil-Celulosa"
+  },
+  {
+    "e_numero": "E462",
+    "tipo": "Media",
+    "nombre_original": "Etil-Celulosa"
+  },
+  {
+    "e_numero": "E463",
+    "tipo": "Media",
+    "nombre_original": "Hidroxipropil-Celulosa"
+  },
+  {
+    "e_numero": "E464",
+    "tipo": "Media",
+    "nombre_original": "Hidroxipropilmetil-Celulosa"
+  },
+  {
+    "e_numero": "E465",
+    "tipo": "Media",
+    "nombre_original": "Metiletil-Celulosa"
+  },
+  {
+    "e_numero": "E466",
+    "tipo": "Media",
+    "nombre_original": "Carboximetil-Celulosa Sódica"
+  },
+  {
+    "e_numero": "E467",
+    "tipo": "Media",
+    "nombre_original": "Etilhidroxietil-Celulosa"
+  },
+  {
+    "e_numero": "E468",
+    "tipo": "Media",
+    "nombre_original": "Carboximetil-Celulosa Sódica Entrelazada"
+  },
+  {
+    "e_numero": "E469",
+    "tipo": "Media",
+    "nombre_original": "Carboximetil-Celulosa Sódica Hidrolizada Enzimáticamente"
+  },
+  {
+    "e_numero": "E470",
+    "tipo": "Baja",
+    "nombre_original": "Sales de Ácidos Grasos"
+  },
+  {
+    "e_numero": "E471",
+    "tipo": "Media",
+    "nombre_original": "Monoglicéridos y Diglicéridos de Ácidos Grasos"
+  },
+  {
+    "e_numero": "E472",
+    "tipo": "Media",
+    "nombre_original": "Ésteres de Monoglicéridos y Diglicéridos de Ácidos Grasos"
+  },
+  {
+    "e_numero": "E473",
+    "tipo": "Media",
+    "nombre_original": "Sucroésteres de Ácidos Grasos"
+  },
+  {
+    "e_numero": "E474",
+    "tipo": "Media",
+    "nombre_original": "Sucroglicéridos de Ácidos Grasos"
+  },
+  {
+    "e_numero": "E475",
+    "tipo": "Media",
+    "nombre_original": "Ésteres Poliglicéridos de Ácidos Grasos"
+  },
+  {
+    "e_numero": "E476",
+    "tipo": "Baja",
+    "nombre_original": "Polirricinoleato de Poliglicerol"
+  },
+  {
+    "e_numero": "E477",
+    "tipo": "Media",
+    "nombre_original": "Ésteres de Propilenglicol de Ácidos Grasos"
+  },
+  {
+    "e_numero": "E479",
+    "tipo": "Media",
+    "nombre_original": "Aceites de Soja Oxidados"
+  },
+  {
+    "e_numero": "E480",
+    "tipo": "Media",
+    "nombre_original": "Dioctil Sulfosuccinato Sódico"
+  },
+  {
+    "e_numero": "E481",
+    "tipo": "Baja",
+    "nombre_original": "Lactilatos Sódicos"
+  },
+  {
+    "e_numero": "E482",
+    "tipo": "Baja",
+    "nombre_original": "Lactilatos Cálcicos"
+  },
+  {
+    "e_numero": "E483",
+    "tipo": "Baja",
+    "nombre_original": "Tartrato Estearílico"
+  },
+  {
+    "e_numero": "E491",
+    "tipo": "Alta",
+    "nombre_original": "Monoestearato de Sorbitano"
+  },
+  {
+    "e_numero": "E492",
+    "tipo": "Alta",
+    "nombre_original": "Triestearato de Sorbitano"
+  },
+  {
+    "e_numero": "E493",
+    "tipo": "Alta",
+    "nombre_original": "Monolaurato de Sorbitano"
+  },
+  {
+    "e_numero": "E494",
+    "tipo": "Alta",
+    "nombre_original": "Monooleato de Sorbitano"
+  },
+  {
+    "e_numero": "E495",
+    "tipo": "Alta",
+    "nombre_original": "Monopalmitato de Sorbitano"
+  },
+  {
+    "e_numero": "E496",
+    "tipo": "Alta",
+    "nombre_original": "Trioleato de Sorbitano"
+  },
+  {
+    "e_numero": "E499",
+    "tipo": "Baja",
+    "nombre_original": "Fitoesteroles Ricos en Estigmasterol"
+  },
+  {
+    "e_numero": "E500",
+    "tipo": "Baja",
+    "nombre_original": "Carbonatos Sódicos"
+  },
+  {
+    "e_numero": "E501",
+    "tipo": "Baja",
+    "nombre_original": "Carbonatos Potásicos"
+  },
+  {
+    "e_numero": "E503",
+    "tipo": "Baja",
+    "nombre_original": "Carbonatos Amónicos"
+  },
+  {
+    "e_numero": "E504",
+    "tipo": "Baja",
+    "nombre_original": "Carbonatos Magnésicos"
+  },
+  {
+    "e_numero": "E507",
+    "tipo": "Alta",
+    "nombre_original": "Ácido Clorhídrico"
+  },
+  {
+    "e_numero": "E508",
+    "tipo": "Alta",
+    "nombre_original": "Cloruro Potásico"
+  },
+  {
+    "e_numero": "E509",
+    "tipo": "Alta",
+    "nombre_original": "Cloruro Cálcico"
+  },
+  {
+    "e_numero": "E510",
+    "tipo": "Alta",
+    "nombre_original": "Cloruro Amónico"
+  },
+  {
+    "e_numero": "E511",
+    "tipo": "Baja",
+    "nombre_original": "Cloruro Magnésico"
+  },
+  {
+    "e_numero": "E512",
+    "tipo": "Alta",
+    "nombre_original": "Cloruro Estañoso"
+  },
+  {
+    "e_numero": "E513",
+    "tipo": "Alta",
+    "nombre_original": "Ácido Sulfúrico"
+  },
+  {
+    "e_numero": "E514",
+    "tipo": "Media",
+    "nombre_original": "Sulfatos Sódicos"
+  },
+  {
+    "e_numero": "E515",
+    "tipo": "Media",
+    "nombre_original": "Sulfatos Potásicos"
+  },
+  {
+    "e_numero": "E516",
+    "tipo": "Media",
+    "nombre_original": "Sulfatos Cálcicos"
+  },
+  {
+    "e_numero": "E517",
+    "tipo": "Media",
+    "nombre_original": "Sulfatos Amónicos"
+  },
+  {
+    "e_numero": "E518",
+    "tipo": "Media",
+    "nombre_original": "Sulfatos Magnésicos"
+  },
+  {
+    "e_numero": "E519",
+    "tipo": "Alta",
+    "nombre_original": "Sulfatos Cúpricos"
+  },
+  {
+    "e_numero": "E520",
+    "tipo": "Alta",
+    "nombre_original": "Sulfato Alumínico"
+  },
+  {
+    "e_numero": "E521",
+    "tipo": "Alta",
+    "nombre_original": "Sulfato Alumínico-Sódico"
+  },
+  {
+    "e_numero": "E522",
+    "tipo": "Alta",
+    "nombre_original": "Sulfato Alumínico-Potásico"
+  },
+  {
+    "e_numero": "E523",
+    "tipo": "Alta",
+    "nombre_original": "Sulfato Alumínico-Amónico"
+  },
+  {
+    "e_numero": "E524",
+    "tipo": "Media",
+    "nombre_original": "Hidróxido Sódico"
+  },
+  {
+    "e_numero": "E525",
+    "tipo": "Media",
+    "nombre_original": "Hidróxido Potásico"
+  },
+  {
+    "e_numero": "E526",
+    "tipo": "Media",
+    "nombre_original": "Hidróxido Cálcico"
+  },
+  {
+    "e_numero": "E527",
+    "tipo": "Alta",
+    "nombre_original": "Hidróxido Amónico"
+  },
+  {
+    "e_numero": "E528",
+    "tipo": "Media",
+    "nombre_original": "Hidróxido Magnésico"
+  },
+  {
+    "e_numero": "E529",
+    "tipo": "Media",
+    "nombre_original": "Óxido Cálcico"
+  },
+  {
+    "e_numero": "E530",
+    "tipo": "Media",
+    "nombre_original": "Óxido Magnésico"
+  },
+  {
+    "e_numero": "E535",
+    "tipo": "Media",
+    "nombre_original": "Ferrocianuro Sódico"
+  },
+  {
+    "e_numero": "E536",
+    "tipo": "Media",
+    "nombre_original": "Ferrocianuro Potásico"
+  },
+  {
+    "e_numero": "E538",
+    "tipo": "Media",
+    "nombre_original": "Ferrocianuro Cálcico"
+  },
+  {
+    "e_numero": "E540",
+    "tipo": "Media",
+    "nombre_original": "Fosfato Ácido Cálcico"
+  },
+  {
+    "e_numero": "E541",
+    "tipo": "Alta",
+    "nombre_original": "Fosfatos Alumínicos-Sódicos"
+  },
+  {
+    "e_numero": "E542",
+    "tipo": "Alta",
+    "nombre_original": "Fosfato Tribásico Cálcico"
+  },
+  {
+    "e_numero": "E543",
+    "tipo": "Media",
+    "nombre_original": "Polifosfatos Sódicos-Cálcicos"
+  },
+  {
+    "e_numero": "E544",
+    "tipo": "Media",
+    "nombre_original": "Polifosfatos Cálcicos"
+  },
+  {
+    "e_numero": "E545",
+    "tipo": "Media",
+    "nombre_original": "Polifosfatos Amónicos"
+  },
+  {
+    "e_numero": "E546",
+    "tipo": "Media",
+    "nombre_original": "Polifosfatos Magnésicos"
+  },
+  {
+    "e_numero": "E551",
+    "tipo": "Alta",
+    "nombre_original": "Dióxido de Silicio"
+  },
+  {
+    "e_numero": "E552",
+    "tipo": "Alta",
+    "nombre_original": "Silicato Cálcico"
+  },
+  {
+    "e_numero": "E553",
+    "tipo": "Alta",
+    "nombre_original": "Silicatos Magnésicos"
+  },
+  {
+    "e_numero": "E554",
+    "tipo": "Alta",
+    "nombre_original": "Silicato Sódico-Alumínico"
+  },
+  {
+    "e_numero": "E555",
+    "tipo": "Alta",
+    "nombre_original": "Silicato Potásico-Alumínico"
+  },
+  {
+    "e_numero": "E556",
+    "tipo": "Alta",
+    "nombre_original": "Silicato Cálcico-Alumínico"
+  },
+  {
+    "e_numero": "E558",
+    "tipo": "Baja",
+    "nombre_original": "Bentonita"
+  },
+  {
+    "e_numero": "E559",
+    "tipo": "Alta",
+    "nombre_original": "Silicato Alumínico"
+  },
+  {
+    "e_numero": "E570",
+    "tipo": "Media",
+    "nombre_original": "Ácido Esteárico"
+  },
+  {
+    "e_numero": "E574",
+    "tipo": "Baja",
+    "nombre_original": "Ácido Glucónico"
+  },
+  {
+    "e_numero": "E575",
+    "tipo": "Baja",
+    "nombre_original": "Glucono-Delta-Lactona"
+  },
+  {
+    "e_numero": "E576",
+    "tipo": "Baja",
+    "nombre_original": "Gluconato Sódico"
+  },
+  {
+    "e_numero": "E577",
+    "tipo": "Baja",
+    "nombre_original": "Gluconato Potásico"
+  },
+  {
+    "e_numero": "E578",
+    "tipo": "Baja",
+    "nombre_original": "Gluconato Cálcico"
+  },
+  {
+    "e_numero": "E579",
+    "tipo": "Baja",
+    "nombre_original": "Gluconato Ferroso"
+  },
+  {
+    "e_numero": "E585",
+    "tipo": "Baja",
+    "nombre_original": "Lactato Ferroso"
+  },
+  {
+    "e_numero": "E620",
+    "tipo": "Alta",
+    "nombre_original": "Ácido Glutámico"
+  },
+  {
+    "e_numero": "E621",
+    "tipo": "Alta",
+    "nombre_original": "Glutamato Monosódico"
+  },
+  {
+    "e_numero": "E622",
+    "tipo": "Alta",
+    "nombre_original": "Glutamato Monopotásico"
+  },
+  {
+    "e_numero": "E623",
+    "tipo": "Alta",
+    "nombre_original": "Glutamato Cálcico"
+  },
+  {
+    "e_numero": "E624",
+    "tipo": "Alta",
+    "nombre_original": "Glutamato Monoamónico"
+  },
+  {
+    "e_numero": "E625",
+    "tipo": "Alta",
+    "nombre_original": "Glutamato Magnésico"
+  },
+  {
+    "e_numero": "E626",
+    "tipo": "Alta",
+    "nombre_original": "Ácido Guanílico"
+  },
+  {
+    "e_numero": "E627",
+    "tipo": "Alta",
+    "nombre_original": "Guanilato Sódico"
+  },
+  {
+    "e_numero": "E628",
+    "tipo": "Alta",
+    "nombre_original": "Guanilato Potásico"
+  },
+  {
+    "e_numero": "E629",
+    "tipo": "Alta",
+    "nombre_original": "Guanilato Cálcico"
+  },
+  {
+    "e_numero": "E630",
+    "tipo": "Alta",
+    "nombre_original": "Ácido Inosínico"
+  },
+  {
+    "e_numero": "E631",
+    "tipo": "Alta",
+    "nombre_original": "Inosinato Sódico"
+  },
+  {
+    "e_numero": "E632",
+    "tipo": "Alta",
+    "nombre_original": "Inosinato Potásico"
+  },
+  {
+    "e_numero": "E633",
+    "tipo": "Alta",
+    "nombre_original": "Inosinato Cálcico"
+  },
+  {
+    "e_numero": "E634",
+    "tipo": "Alta",
+    "nombre_original": "Ribonucleótido Cálcico"
+  },
+  {
+    "e_numero": "E635",
+    "tipo": "Alta",
+    "nombre_original": "Ribonucleótido Sódico"
+  },
+  {
+    "e_numero": "E636",
+    "tipo": "Media",
+    "nombre_original": "Maltol"
+  },
+  {
+    "e_numero": "E637",
+    "tipo": "Media",
+    "nombre_original": "Etilmaltol"
+  },
+  {
+    "e_numero": "E640",
+    "tipo": "Alta",
+    "nombre_original": "Glicina y sus Sales Sódicas"
+  },
+  {
+    "e_numero": "E641",
+    "tipo": "Media",
+    "nombre_original": "Leucina"
+  },
+  {
+    "e_numero": "E650",
+    "tipo": "Media",
+    "nombre_original": "Acetato Zíncico"
+  },
+  {
+    "e_numero": "E900",
+    "tipo": "Alta",
+    "nombre_original": "Dimetilsiloxano, DMS"
+  },
+  {
+    "e_numero": "E901",
+    "tipo": "Baja",
+    "nombre_original": "Ceras de Abejas"
+  },
+  {
+    "e_numero": "E902",
+    "tipo": "Baja",
+    "nombre_original": "Cera Candelilla"
+  },
+  {
+    "e_numero": "E903",
+    "tipo": "Baja",
+    "nombre_original": "Cera Carnaúba"
+  },
+  {
+    "e_numero": "E904",
+    "tipo": "Media",
+    "nombre_original": "Goma Laca"
+  },
+  {
+    "e_numero": "E905",
+    "tipo": "Alta",
+    "nombre_original": "Cera Microcristalina"
+  },
+  {
+    "e_numero": "E907",
+    "tipo": "Alta",
+    "nombre_original": "Poli-1-Deceno Hidrogenado"
+  },
+  {
+    "e_numero": "E912",
+    "tipo": "Media",
+    "nombre_original": "Ésteres de Ácido Montánico"
+  },
+  {
+    "e_numero": "E913",
+    "tipo": "Baja",
+    "nombre_original": "Cera de Lana (Lanolina)"
+  },
+  {
+    "e_numero": "E914",
+    "tipo": "Alta",
+    "nombre_original": "Cera de Polietileno Oxidada"
+  },
+  {
+    "e_numero": "E920",
+    "tipo": "Baja",
+    "nombre_original": "L-Cisteína y Clorhidratos de Cisteína"
+  },
+  {
+    "e_numero": "E921",
+    "tipo": "Baja",
+    "nombre_original": "L-Cistina y Clorhidratos de Cistina"
+  },
+  {
+    "e_numero": "E938",
+    "tipo": "Baja",
+    "nombre_original": "Argón"
+  },
+  {
+    "e_numero": "E939",
+    "tipo": "Baja",
+    "nombre_original": "Helio"
+  },
+  {
+    "e_numero": "E941",
+    "tipo": "Baja",
+    "nombre_original": "Nitrógeno"
+  },
+  {
+    "e_numero": "E942",
+    "tipo": "Baja",
+    "nombre_original": "Óxido Nitroso"
+  },
+  {
+    "e_numero": "E943",
+    "tipo": "Alta",
+    "nombre_original": "Butanos"
+  },
+  {
+    "e_numero": "E944",
+    "tipo": "Alta",
+    "nombre_original": "Propano"
+  },
+  {
+    "e_numero": "E948",
+    "tipo": "Baja",
+    "nombre_original": "Oxígeno"
+  },
+  {
+    "e_numero": "E949",
+    "tipo": "Baja",
+    "nombre_original": "Hidrógeno"
+  },
+  {
+    "e_numero": "E950",
+    "tipo": "Alta",
+    "nombre_original": "Acesulfamo K"
+  },
+  {
+    "e_numero": "E951",
+    "tipo": "Alta",
+    "nombre_original": "Aspartamo"
+  },
+  {
+    "e_numero": "E952",
+    "tipo": "Alta",
+    "nombre_original": "Ácido Ciclámico y sus Sales Sódicas y Cálcicas"
+  },
+  {
+    "e_numero": "E953",
+    "tipo": "Baja",
+    "nombre_original": "Isomaltosa"
+  },
+  {
+    "e_numero": "E954",
+    "tipo": "Alta",
+    "nombre_original": "Sacarina y sus Sales Sódicas, Cálcicas y Potásicas"
+  },
+  {
+    "e_numero": "E955",
+    "tipo": "Alta",
+    "nombre_original": "Sucralosa"
+  },
+  {
+    "e_numero": "E957",
+    "tipo": "Baja",
+    "nombre_original": "Taumatina"
+  },
+  {
+    "e_numero": "E958",
+    "tipo": "Alta",
+    "nombre_original": "Glicirricina"
+  },
+  {
+    "e_numero": "E959",
+    "tipo": "Media",
+    "nombre_original": "Neohesperidina Dihidrocalcona (NHDC)"
+  },
+  {
+    "e_numero": "E960",
+    "tipo": "Media",
+    "nombre_original": "Glicósidos de Esteviol"
+  },
+  {
+    "e_numero": "E961",
+    "tipo": "Alta",
+    "nombre_original": "Neotamo"
+  },
+  {
+    "e_numero": "E962",
+    "tipo": "Alta",
+    "nombre_original": "Sal de Aspartamo y Acesulfamo"
+  },
+  {
+    "e_numero": "E963",
+    "tipo": "Baja",
+    "nombre_original": "Tagatosa"
+  },
+  {
+    "e_numero": "E965",
+    "tipo": "Media",
+    "nombre_original": "Maltitoles"
+  },
+  {
+    "e_numero": "E966",
+    "tipo": "Media",
+    "nombre_original": "Lactitol"
+  },
+  {
+    "e_numero": "E967",
+    "tipo": "Baja",
+    "nombre_original": "Xilitol"
+  },
+  {
+    "e_numero": "E968",
+    "tipo": "Alta",
+    "nombre_original": "Eritritol"
+  },
+  {
+    "e_numero": "E969",
+    "tipo": "Media",
+    "nombre_original": "Advantame"
+  },
+  {
+    "e_numero": "E999",
+    "tipo": "Media",
+    "nombre_original": "Extracto de Quilaya"
+  }
+]

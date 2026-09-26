@@ -1,0 +1,61 @@
+{
+  "models": {
+    "Collaborative Filtering": {
+      "name": "Collaborative Filtering",
+      "type": "recommendation",
+      "algorithm": "Matrix Factorization",
+      "accuracy": 0.6165528164011825,
+      "lastTrained": "2025-10-04T09:52:27.637Z",
+      "isTrained": true,
+      "savedAt": "2025-10-04T09:52:27.662Z",
+      "format": "binary_compressed",
+      "size": 1214
+    },
+    "Content-Based Filtering": {
+      "name": "Content-Based Filtering",
+      "type": "recommendation",
+      "algorithm": "TF-IDF + Cosine Similarity",
+      "accuracy": 0.8171556280728787,
+      "lastTrained": "2025-10-04T09:52:27.637Z",
+      "isTrained": true,
+      "savedAt": "2025-10-04T09:52:27.664Z",
+      "format": "binary_compressed",
+      "size": 1233
+    },
+    "Deficiency Analysis": {
+      "name": "Deficiency Analysis",
+      "type": "prediction",
+      "algorithm": "Random Forest",
+      "accuracy": 0.95,
+      "lastTrained": "2025-10-04T09:52:27.637Z",
+      "isTrained": true,
+      "savedAt": "2025-10-04T09:52:27.666Z",
+      "format": "binary_compressed",
+      "size": 1197
+    },
+    "Effectiveness Prediction": {
+      "name": "Effectiveness Prediction",
+      "type": "prediction",
+      "algorithm": "Gradient Boosting",
+      "accuracy": 0.88,
+      "lastTrained": "2025-10-04T09:52:27.637Z",
+      "isTrained": true,
+      "savedAt": "2025-10-04T09:52:27.668Z",
+      "format": "binary_compressed",
+      "size": 1196
+    },
+    "User Segmentation": {
+      "name": "User Segmentation",
+      "type": "clustering",
+      "algorithm": "K-Means",
+      "accuracy": 0.82,
+      "lastTrained": "2025-10-04T09:52:27.637Z",
+      "isTrained": true,
+      "savedAt": "2025-10-04T09:52:27.669Z",
+      "format": "binary_compressed",
+      "size": 1200
+    }
+  },
+  "lastUpdated": "2025-10-04T09:52:27.669Z",
+  "version": "1.0.0"
+}

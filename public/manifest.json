@@ -1,0 +1,80 @@
+{
+  "name": "Scan Health - Suplementos",
+  "short_name": "Scan Health",
+  "description": "Escanea cualquier suplemento y descubre lo que realmente funciona. Sigue tu bienestar con información inteligente.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2dd4bf",
+  "orientation": "portrait-primary",
+  "scope": "/",
+  "categories": ["health", "lifestyle", "productivity"],
+  "lang": "es",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Escanear Suplemento",
+      "short_name": "Scanner",
+      "description": "Escanea rápidamente un suplemento",
+      "url": "/?action=scan",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    },
+    {
+      "name": "Completar Suplementación",
+      "short_name": "Completar",
+      "description": "Marca tus suplementos como tomados",
+      "url": "/?action=complete",
+      "icons": [
+        {
+          "src": "/icon-192.png",
+          "sizes": "192x192",
+          "type": "image/png"
+        }
+      ]
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "/screenshot-mobile-1.png",
+      "sizes": "430x932",
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Homescreen showing supplement tracking"
+    },
+    {
+      "src": "/screenshot-mobile-2.png",
+      "sizes": "430x932", 
+      "type": "image/png",
+      "form_factor": "narrow",
+      "label": "Scanner interface for adding supplements"
+    }
+  ],
+  "prefer_related_applications": false,
+  "edge_side_panel": {
+    "preferred_width": 480
+  }
+}

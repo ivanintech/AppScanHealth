@@ -1,0 +1,271 @@
+{
+  "groups": [
+    {
+      "id": "fitness-performance",
+      "title": "Fitness y Rendimiento",
+      "description": "Protocolos basados en evidencia científica para mejorar el rendimiento deportivo y la composición corporal",
+      "icon": "Dumbbell",
+      "color": "blue",
+      "protocols": [
+        {
+          "id": "proto-creatine-performance",
+          "title": "Protocolo de Creatina para Rendimiento",
+          "description": "Protocolo completo de creatina monohidrato basado en más de 500 estudios científicos que demuestran mejoras en fuerza, potencia y masa muscular.",
+          "category": "Fitness y Músculo",
+          "icon": "Dumbbell",
+          "coverImage": "/assets/creatine.jpg",
+          "difficulty": "Principiante",
+          "duration": "Continuo",
+          "evidence_level": "A+ (Muy Alta)",
+          "studies_count": "500+",
+          "supplements": [
+            {
+              "name": "Creatina Monohidrato",
+              "dosage": "Fase de carga: 20g/día (4 dosis de 5g) por 5-7 días. Mantenimiento: 3-5g/día",
+              "timing": "En cualquier momento del día. La consistencia es más importante que el timing.",
+              "rationale": "El suplemento más estudiado para el aumento de la fuerza, potencia y masa muscular. Aumenta los depósitos de fosfocreatina intramuscular, mejorando la resíntesis de ATP durante ejercicios de alta intensidad.",
+              "evidence": "Meta-análisis de 22 estudios muestra aumento promedio de 8% en fuerza y 14% en potencia. Efectos observados en 70-80% de usuarios.",
+              "safety": "Extremadamente seguro. No hay evidencia de daño renal o hepático en dosis recomendadas.",
+              "category_match": "Creatina",
+              "ean": "creatine_monohydrate"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>La creatina monohidrato es el suplemento deportivo más estudiado científicamente, con más de 500 estudios que respaldan su eficacia. Los meta-análisis muestran consistentemente mejoras en:</p><ul><li><strong>Fuerza:</strong> 8% de aumento promedio</li><li><strong>Potencia:</strong> 14% de aumento promedio</li><li><strong>Masa muscular:</strong> 1-2 kg en 8-12 semanas</li><li><strong>Rendimiento en sprints:</strong> 1-5% de mejora</li></ul><h3>Mecanismo de Acción</h3><p>La creatina aumenta los depósitos de fosfocreatina intramuscular, lo que mejora la resíntesis de ATP durante ejercicios de alta intensidad y corta duración. También aumenta la hidratación celular y puede estimular la síntesis de proteínas.</p><h3>Instrucciones de Uso</h3><ul><li><strong>Fase de carga:</strong> 20g/día dividido en 4 dosis de 5g durante 5-7 días</li><li><strong>Fase de mantenimiento:</strong> 3-5g/día de forma continua</li><li><strong>Timing:</strong> No es crítico, pero puede tomarse con carbohidratos para mejorar la absorción</li><li><strong>Hidratación:</strong> Mantener una hidratación adecuada (2-3L/día)</li></ul><h3>Consideraciones Especiales</h3><ul><li>Los vegetarianos pueden experimentar mayores beneficios debido a menores niveles basales</li><li>Algunos usuarios pueden experimentar retención de agua inicial (1-2 kg)</li><li>No es necesario ciclar la creatina</li><li>Compatible con ayuno intermitente</li></ul>"
+        },
+        {
+          "id": "proto-protein-recovery",
+          "title": "Protocolo de Proteína para Recuperación",
+          "description": "Protocolo optimizado de proteína whey para maximizar la síntesis de proteínas musculares y la recuperación post-entrenamiento.",
+          "category": "Fitness y Músculo",
+          "icon": "Zap",
+          "coverImage": "/assets/whey-protein.jpg",
+          "difficulty": "Principiante",
+          "duration": "Post-entrenamiento",
+          "evidence_level": "A (Alta)",
+          "studies_count": "200+",
+          "supplements": [
+            {
+              "name": "Proteína de Suero (Whey)",
+              "dosage": "20-40g por dosis",
+              "timing": "Dentro de los 60 minutos posteriores al entrenamiento, preferiblemente en los primeros 30 minutos.",
+              "rationale": "Proporciona aminoácidos esenciales de rápida absorción, especialmente leucina, que es el principal activador de la síntesis de proteínas musculares (mTOR).",
+              "evidence": "Estudios muestran que 20-40g de proteína whey maximiza la síntesis de proteínas musculares. La leucina (2-3g) es el aminoácido clave.",
+              "safety": "Muy seguro. Posibles molestias digestivas en personas con intolerancia a la lactosa.",
+              "category_match": "Proteínas",
+              "ean": "whey_protein"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>La proteína de suero es la fuente de proteína más eficaz para estimular la síntesis de proteínas musculares debido a su:</p><ul><li><strong>Perfil de aminoácidos completo:</strong> Contiene todos los aminoácidos esenciales</li><li><strong>Alto contenido de leucina:</strong> 2-3g por dosis, el principal activador de mTOR</li><li><strong>Rápida absorción:</strong> Pico de aminoácidos en sangre en 60-90 minutos</li><li><strong>Biodisponibilidad superior:</strong> 95-99% de absorción</li></ul><h3>Dosificación Óptima</h3><p>La investigación muestra que:</p><ul><li><strong>20g:</strong> Mínimo efectivo para la mayoría de personas</li><li><strong>40g:</strong> Máximo efectivo para personas grandes o entrenamientos muy intensos</li><li><strong>Más de 40g:</strong> No proporciona beneficios adicionales significativos</li></ul><h3>Timing Estratégico</h3><ul><li><strong>Ventana anabólica:</strong> 0-2 horas post-entrenamiento</li><li><strong>Pico de efectividad:</strong> Primeros 30 minutos</li><li><strong>Con carbohidratos:</strong> Mejora la absorción y la síntesis de proteínas</li></ul>"
+        },
+        {
+          "id": "proto-omega3-inflammation",
+          "title": "Protocolo Omega-3 Antiinflamatorio",
+          "description": "Protocolo de ácidos grasos omega-3 para reducir la inflamación, mejorar la recuperación y optimizar la salud cardiovascular.",
+          "category": "Salud y Bienestar",
+          "icon": "Heart",
+          "coverImage": "/assets/omega3.jpg",
+          "difficulty": "Principiante",
+          "duration": "Continuo",
+          "evidence_level": "A (Alta)",
+          "studies_count": "300+",
+          "supplements": [
+            {
+              "name": "Omega-3 (EPA/DHA)",
+              "dosage": "1-3g de EPA/DHA combinados por día",
+              "timing": "Con las comidas para mejorar la absorción",
+              "rationale": "Los ácidos grasos omega-3 (EPA y DHA) reducen la inflamación sistémica, mejoran la función cardiovascular y pueden acelerar la recuperación muscular.",
+              "evidence": "Meta-análisis muestran reducción del 23% en marcadores inflamatorios y mejora en la función endotelial. Beneficios cardiovasculares bien establecidos.",
+              "safety": "Muy seguro. Posible efecto anticoagulante en dosis altas (>3g/día).",
+              "category_match": "Omega 3",
+              "ean": "omega3_epa_dha"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>Los omega-3 (EPA y DHA) son ácidos grasos esenciales con potentes efectos antiinflamatorios:</p><ul><li><strong>Reducción de inflamación:</strong> Inhiben la producción de citoquinas proinflamatorias</li><li><strong>Salud cardiovascular:</strong> Reducen triglicéridos, presión arterial y riesgo de arritmias</li><li><strong>Recuperación muscular:</strong> Pueden acelerar la recuperación post-entrenamiento</li><li><strong>Función cognitiva:</strong> El DHA es crucial para la salud cerebral</li></ul><h3>Dosificación por Objetivos</h3><ul><li><strong>Salud general:</strong> 1g EPA/DHA por día</li><li><strong>Rendimiento deportivo:</strong> 2-3g EPA/DHA por día</li><li><strong>Inflamación crónica:</strong> 3g EPA/DHA por día</li><li><strong>Salud cardiovascular:</strong> 2-4g EPA/DHA por día</li></ul><h3>Calidad del Suplemento</h3><ul><li><strong>Pureza:</strong> Buscar certificación de pureza (IFOS, GOED)</li><li><strong>Concentración:</strong> Mínimo 60% EPA/DHA</li><li><strong>Estabilidad:</strong> Cápsulas con antioxidantes (vitamina E)</li><li><strong>Origen:</strong> Pescado de aguas profundas y frías</li></ul>"
+        },
+        {
+          "id": "proto-vitamin-d-optimization",
+          "title": "Protocolo de Optimización de Vitamina D",
+          "description": "Protocolo para optimizar los niveles de vitamina D3, crucial para la salud ósea, inmunidad y rendimiento deportivo.",
+          "category": "Vitaminas",
+          "icon": "Sun",
+          "coverImage": "/assets/vitamin-d.jpg",
+          "difficulty": "Principiante",
+          "duration": "Continuo",
+          "evidence_level": "A (Alta)",
+          "studies_count": "400+",
+          "supplements": [
+            {
+              "name": "Vitamina D3 (Colecalciferol)",
+              "dosage": "2000-4000 UI por día (50-100 mcg)",
+              "timing": "Con una comida que contenga grasas para mejorar la absorción",
+              "rationale": "La vitamina D3 es esencial para la absorción de calcio, función inmunitaria y puede mejorar la fuerza muscular y el rendimiento deportivo.",
+              "evidence": "Estudios muestran que niveles óptimos (>30 ng/mL) mejoran la fuerza muscular, reducen el riesgo de fracturas y mejoran la función inmunitaria.",
+              "safety": "Seguro en dosis recomendadas. Toxicidad rara por encima de 10,000 UI/día.",
+              "category_match": "Vitamina D",
+              "ean": "vitamin_d3"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>La vitamina D3 es una hormona esteroidea que regula más de 200 genes y es crucial para:</p><ul><li><strong>Salud ósea:</strong> Absorción de calcio y fosfato</li><li><strong>Función muscular:</strong> Mejora la fuerza y potencia muscular</li><li><strong>Inmunidad:</strong> Regula la respuesta inmunitaria</li><li><strong>Rendimiento deportivo:</strong> Puede mejorar la fuerza y la potencia</li></ul><h3>Dosificación Personalizada</h3><ul><li><strong>Niveles deficientes (<20 ng/mL):</strong> 4000-5000 UI/día</li><li><strong>Niveles insuficientes (20-30 ng/mL):</strong> 2000-3000 UI/día</li><li><strong>Mantenimiento (>30 ng/mL):</strong> 1000-2000 UI/día</li><li><strong>Población de riesgo:</strong> Personas con piel oscura, obesidad, o poca exposición solar</li></ul><h3>Optimización de la Absorción</h3><ul><li><strong>Con grasas:</strong> Tomar con una comida que contenga 10-15g de grasa</li><li><strong>Magnesio:</strong> El magnesio es necesario para la activación de la vitamina D</li><li><strong>Vitamina K2:</strong> Mejora la utilización del calcio</li><li><strong>Exposición solar:</strong> 15-30 minutos de sol directo en brazos y piernas</li></ul>"
+        },
+        {
+          "id": "proto-magnesium-recovery",
+          "title": "Protocolo de Magnesio para Recuperación",
+          "description": "Protocolo de magnesio para mejorar la calidad del sueño, reducir la fatiga muscular y optimizar la recuperación.",
+          "category": "Minerales",
+          "icon": "Moon",
+          "coverImage": "/assets/magnesium.jpg",
+          "difficulty": "Principiante",
+          "duration": "Continuo",
+          "evidence_level": "B+ (Buena)",
+          "studies_count": "100+",
+          "supplements": [
+            {
+              "name": "Magnesio (Glicinato o Citrato)",
+              "dosage": "200-400mg de magnesio elemental por día",
+              "timing": "30-60 minutos antes de dormir para mejorar el sueño",
+              "rationale": "El magnesio es un cofactor en más de 300 reacciones enzimáticas, incluyendo la síntesis de ATP, la función muscular y la regulación del sueño.",
+              "evidence": "Estudios muestran mejoras en la calidad del sueño, reducción de calambres musculares y mejor recuperación en atletas.",
+              "safety": "Muy seguro. Posibles efectos laxantes en dosis altas.",
+              "category_match": "Magnesio",
+              "ean": "magnesium_glycinate"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>El magnesio es el cuarto mineral más abundante en el cuerpo y es esencial para:</p><ul><li><strong>Síntesis de ATP:</strong> Cofactor en la producción de energía</li><li><strong>Función muscular:</strong> Contracción y relajación muscular</li><li><strong>Calidad del sueño:</strong> Regula GABA y melatonina</li><li><strong>Recuperación:</strong> Reduce la inflamación y el estrés oxidativo</li></ul><h3>Formas de Magnesio</h3><ul><li><strong>Glicinato:</strong> Mejor absorción, menos efectos laxantes</li><li><strong>Citrato:</strong> Buena absorción, puede tener efecto laxante</li><li><strong>Óxido:</strong> Baja absorción, no recomendado</li><li><strong>Malato:</strong> Bueno para fatiga muscular</li></ul><h3>Dosificación y Timing</h3><ul><li><strong>Dosis diaria:</strong> 200-400mg de magnesio elemental</li><li><strong>Timing óptimo:</strong> 30-60 minutos antes de dormir</li><li><strong>Con comida:</strong> Mejora la absorción</li><li><strong>División de dosis:</strong> Puede dividirse en 2-3 tomas</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "cognitive-performance",
+      "title": "Rendimiento Cognitivo",
+      "description": "Protocolos para optimizar la función cerebral, memoria, concentración y rendimiento mental",
+      "icon": "Brain",
+      "color": "purple",
+      "protocols": [
+        {
+          "id": "proto-nootropics-basic",
+          "title": "Protocolo Nootrópico Básico",
+          "description": "Protocolo fundamental de nootrópicos para mejorar la concentración, memoria y rendimiento cognitivo de forma segura.",
+          "category": "Cognición",
+          "icon": "Brain",
+          "coverImage": "/assets/nootropics.jpg",
+          "difficulty": "Intermedio",
+          "duration": "Continuo",
+          "evidence_level": "B+ (Buena)",
+          "studies_count": "150+",
+          "supplements": [
+            {
+              "name": "L-Teanina",
+              "dosage": "100-200mg",
+              "timing": "Con cafeína o 30 minutos antes de tareas que requieren concentración",
+              "rationale": "Aminoácido que promueve la relajación sin sedación, mejora la atención y reduce los efectos secundarios de la cafeína.",
+              "evidence": "Estudios muestran mejoras en la atención, memoria de trabajo y reducción del estrés mental.",
+              "safety": "Muy seguro. Sin efectos secundarios conocidos.",
+              "category_match": "Aminoácidos",
+              "ean": "l_theanine"
+            },
+            {
+              "name": "Bacopa Monnieri",
+              "dosage": "300-600mg de extracto estandarizado (50% bacósidos)",
+              "timing": "Con las comidas, preferiblemente por la mañana",
+              "rationale": "Adaptógeno que mejora la memoria, el aprendizaje y la función cognitiva a largo plazo.",
+              "evidence": "Meta-análisis de 9 estudios muestran mejoras significativas en la memoria y velocidad de procesamiento.",
+              "safety": "Seguro. Posibles molestias digestivas leves al inicio.",
+              "category_match": "Adaptógenos",
+              "ean": "bacopa_monnieri"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>Este protocolo combina dos nootrópicos con evidencia sólida:</p><ul><li><strong>L-Teanina:</strong> Promueve ondas alfa cerebrales, mejorando la atención relajada</li><li><strong>Bacopa Monnieri:</strong> Mejora la neuroplasticidad y la función de la memoria</li></ul><h3>Mecanismos de Acción</h3><ul><li><strong>L-Teanina:</strong> Aumenta GABA, dopamina y serotonina; reduce cortisol</li><li><strong>Bacopa:</strong> Aumenta la síntesis de proteínas en el hipocampo, mejora la comunicación neuronal</li></ul><h3>Beneficios Esperados</h3><ul><li>Mejora en la concentración y atención sostenida</li><li>Reducción del estrés mental y ansiedad</li><li>Mejora en la memoria a corto y largo plazo</li><li>Mejor calidad del sueño (con L-teanina)</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "sleep-recovery",
+      "title": "Sueño y Recuperación",
+      "description": "Protocolos para optimizar la calidad del sueño y acelerar la recuperación",
+      "icon": "Moon",
+      "color": "indigo",
+      "protocols": [
+        {
+          "id": "proto-sleep-optimization",
+          "title": "Protocolo de Optimización del Sueño",
+          "description": "Protocolo completo para mejorar la calidad del sueño, reducir el tiempo de conciliación y optimizar la recuperación nocturna.",
+          "category": "Sueño",
+          "icon": "Moon",
+          "coverImage": "/assets/sleep.jpg",
+          "difficulty": "Principiante",
+          "duration": "Continuo",
+          "evidence_level": "A (Alta)",
+          "studies_count": "200+",
+          "supplements": [
+            {
+              "name": "Melatonina",
+              "dosage": "0.5-3mg",
+              "timing": "30-60 minutos antes de la hora deseada de dormir",
+              "rationale": "Hormona natural que regula el ciclo circadiano. Suplementación puede mejorar la conciliación del sueño y la calidad del descanso.",
+              "evidence": "Meta-análisis muestran reducción de 4-7 minutos en tiempo de conciliación y mejora en la calidad del sueño.",
+              "safety": "Muy seguro. Posible somnolencia matutina en dosis altas.",
+              "category_match": "Melatonina",
+              "ean": "melatonin"
+            },
+            {
+              "name": "Magnesio Glicinato",
+              "dosage": "200-400mg",
+              "timing": "30-60 minutos antes de dormir",
+              "rationale": "Mineral esencial que actúa como relajante muscular natural y mejora la calidad del sueño profundo.",
+              "evidence": "Estudios muestran mejoras en la calidad del sueño, reducción de despertares nocturnos y mejor recuperación.",
+              "safety": "Muy seguro. Sin efectos secundarios significativos.",
+              "category_match": "Magnesio",
+              "ean": "magnesium_glycinate"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>La combinación de melatonina y magnesio aborda múltiples aspectos del sueño:</p><ul><li><strong>Melatonina:</strong> Regula el ritmo circadiano y promueve la somnolencia</li><li><strong>Magnesio:</strong> Relaja los músculos, reduce el estrés y mejora el sueño profundo</li></ul><h3>Dosificación Personalizada</h3><ul><li><strong>Melatonina:</strong> Empezar con 0.5mg, aumentar gradualmente si es necesario</li><li><strong>Magnesio:</strong> 200mg para principiantes, 400mg para usuarios experimentados</li><li><strong>Timing:</strong> Ambos 30-60 minutos antes de dormir</li></ul><h3>Optimización del Entorno</h3><ul><li>Habitación fresca (18-20°C)</li><li>Oscuridad total</li><li>Evitar pantallas 1-2 horas antes de dormir</li><li>Rutina de relajación consistente</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "immune-health",
+      "title": "Salud Inmunitaria",
+      "description": "Protocolos para fortalecer el sistema inmunitario y prevenir enfermedades",
+      "icon": "Shield",
+      "color": "green",
+      "protocols": [
+        {
+          "id": "proto-immune-support",
+          "title": "Protocolo de Soporte Inmunitario",
+          "description": "Protocolo basado en evidencia para fortalecer el sistema inmunitario y reducir el riesgo de infecciones.",
+          "category": "Inmunidad",
+          "icon": "Shield",
+          "coverImage": "/assets/immune.jpg",
+          "difficulty": "Principiante",
+          "duration": "Continuo",
+          "evidence_level": "A (Alta)",
+          "studies_count": "300+",
+          "supplements": [
+            {
+              "name": "Vitamina C",
+              "dosage": "1000-2000mg por día",
+              "timing": "Dividido en 2-3 dosis con las comidas",
+              "rationale": "Antioxidante potente que apoya la función inmunitaria, reduce la duración de resfriados y mejora la absorción de hierro.",
+              "evidence": "Meta-análisis muestran reducción del 8-14% en la duración de resfriados y mejora en la función inmunitaria.",
+              "safety": "Muy seguro. Posibles molestias digestivas en dosis altas.",
+              "category_match": "Vitamina C",
+              "ean": "vitamin_c"
+            },
+            {
+              "name": "Zinc",
+              "dosage": "15-30mg por día",
+              "timing": "Con las comidas para mejorar la absorción",
+              "rationale": "Mineral esencial para la función inmunitaria, la cicatrización de heridas y la síntesis de proteínas.",
+              "evidence": "Estudios muestran reducción del 33% en la duración de resfriados cuando se toma dentro de las 24 horas del inicio de síntomas.",
+              "safety": "Seguro en dosis recomendadas. Evitar dosis >40mg/día.",
+              "category_match": "Zinc",
+              "ean": "zinc"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>La combinación de vitamina C y zinc proporciona soporte inmunitario integral:</p><ul><li><strong>Vitamina C:</strong> Antioxidante que protege las células inmunitarias del daño oxidativo</li><li><strong>Zinc:</strong> Cofactor en más de 300 enzimas, esencial para la función inmunitaria</li></ul><h3>Beneficios Inmunitarios</h3><ul><li>Reducción en la duración de resfriados</li><li>Mejora en la función de las células inmunitarias</li><li>Reducción del estrés oxidativo</li><li>Mejor cicatrización de heridas</li></ul><h3>Consideraciones Especiales</h3><ul><li><strong>Atletas:</strong> Mayor riesgo de deficiencia por pérdida en sudor</li><li><strong>Vegetarianos:</strong> Mayor riesgo de deficiencia de zinc</li><li><strong>Fumadores:</strong> Mayor necesidad de vitamina C</li><li><strong>Estrés:</strong> Aumenta la demanda de ambos nutrientes</li></ul>"
+        }
+      ]
+    }
+  ]
+}
+

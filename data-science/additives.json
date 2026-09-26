@@ -1,0 +1,1899 @@
+[
+  {
+    "e-id": "E-100",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Vegetal",
+    "e-name": "Curcumina",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-101",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Animal",
+    "e-name": "Riboflavina",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-102",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Tartracina, Tartrazina, Tartrazine, Amarillo 5, Yellow 5",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-104",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Amarillo quinoleina, quinoline yellow",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-106",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Lactoflavina",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-110",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Amarillo naranja, sunset yellow",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-120",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Animal",
+    "e-name": "Cochinilla",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-122",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Azorrubina, Carmoisina, Carmoisine, Red 3, Azorubina S, Brillantcarmoisin O, Acid Red 14, C.I. 14720",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-123",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Amaranto",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-124",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ponceau 4R",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-127",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Eritrosina",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-128",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Rojo 2G",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-129",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Rojo allura AC, allura red",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-131",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Azul patentado",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-132",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Indigotina",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-133",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Azul Brillante FCF",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-140",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Vegetal",
+    "e-name": "Clorofilas",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-141",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Compuesto de clorofila",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-142",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Verde ácido",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-150",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Caramelo",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-151",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Negro brillante",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-153",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Carbón vegetal o animal",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-154",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Marrón FK",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-155",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Marrón HT",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-160",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Carotenoides",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-161",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Xantofilas",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-162",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Betanina",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-163",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Vegetal",
+    "e-name": "Antocianinas",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-170",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Carbonato de calcio, Carbonato cálcico, Carbonato Ca",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-171",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Dióxido de Titanio",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-172",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Óxido de hierro, Óxido de Fe",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-173",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Aluminio",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-174",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Plata",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-175",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Oro",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-180",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Pigmento rojo",
+    "e-type": "Colorante"
+  },
+  {
+    "e-id": "E-200",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ácido sórbico",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-201",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Sorbato de sodio, Sorbato sódico, Sorbato de Na",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-202",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Sorbato de potasio, Sorbato potásico, Sorbato de K, Sal de potasio del ácido sórbico",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-203",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Sorbato de calcio, Sorbato cálcico, Sorbato Ca",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-210",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ácido benzoico",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-211",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Benzoato de sodio, Benzoato sódico, Benzoato Na",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-212",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Benzoato de potasio, Benzoato potásico, Benzoato K",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-213",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Benzoato de calcio, Benzoato cálcico, Benzoato Ca",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-214",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "P-Hidroxilo Etilo",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-215",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Derivado H.E.",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-216",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Hidroxilo Propilo",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-217",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Derivado H.P.",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-218",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Hidroxilo Metilo",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-219",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Hidróxido M. de Na",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-220",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Anhídrido sulfuroso, Dióxido de azufre, Óxido de azufre (IV)",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-221",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Sulfito de sodio, Sulfito sódico, Sulfito de Na",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-222",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Bisulfito de sodio, Bisulfito sódico, Bisulfito de Na",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-223",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Disulfito de sodio, Disulfito sódico, Disulfito de Na",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-224",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Bisulfito de potasio, Bisulfito de K, Disulfito de K, Metabisulfito potásico",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-225",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Disulfito de calcio, Disulfito cálcico, Disulfito Ca",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-226",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Sulfito de calcio, Sulfito cálcico, Sulfito de Ca",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-227",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Bisulfito de calcio, Bisulfito cálcico, Bisulfito de Ca",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-228",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Sulfito ácido de potasio, Bisulfito de potasio",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-230",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Difenilo",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-231",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "O-fenifenol",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-232",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "O-fenilfenolato",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-233",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Tiabendazol",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-234",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Nisina",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-235",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Natamicina",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-236",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ácido fórmico",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-237",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Formiato de sodio, Formiato sódico, Formiato Na",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-238",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Formiato de calcio, Formiato cálcico, Formiato Ca",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-239",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Hexametileno, Hexametilentetramina, Hexamina, Urotropina, Formamina, HMTA, Hexaformo, Metenamina",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-240",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ácido bórico",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-241",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Tetraborato de potasio, Tetraborato potásico, Tetraborato K",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-242",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Dimetil dicar.",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-243",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Etil Lauroil Arginato",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-249",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Nitrito de potasio, Nitrito potásico, Nitrito de K",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-250",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Nitrito de sodio, Nitrito sódico, Nitrito de Na",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-251",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Nitrato de sodio, Nitrato sódico, Nitrato de Na",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-252",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Nitrato de potasio, Nitrato potásico, Nitrato de K",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-260",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ácido acético",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-261",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Acetato de potasio, Acetato potásico, Acetato de K",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-262",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Diacetato de sodio, Diacetato sódico, Diacetato Na",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-263",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Acetato de calcio, Acetato cálcico, Acetato Ca",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-270",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ácido láctico",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-280",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ácido propilo",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-281",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Propionato de sodio, Propionato sódico, Propionato Na",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-282",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Propilo de calcio, Propilo cálcico, Propilo Ca",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-283",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Propionato de potasio, Propionato potásico, Propionato de K",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-284",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ácido bórico",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-285",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Tetraborato de potasio, Tetraborato potásico, Tetraborato K",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-290",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Dióxido de carbono, Anhídrido carbónico, Gas carbónico",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-296",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ácido málico",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-297",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ácido fumárico",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-300",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ácido ascórbico",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-301",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ascorbato de sodio, Ascorbato sódico, Ascorbato de Na",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-302",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ascorbato de calcio, Ascorbato cálcico, Ascorbato Ca",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-303",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Diácido ascórbico",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-304",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Palmitato Ascorbilo",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-306",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Vegetal",
+    "e-name": "Extracción Vegetal",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-307",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Alfa-Tocoferol",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-308",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Gamma-Tocoferol",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-309",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Delta-Tocoferol",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-310",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Galato de Propílico",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-311",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Galato de octilo, Gelato de octilo",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-312",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Galato dodecilo, Gelato dodecilo, Galato de laurilo",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-315",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ácido eritórbico",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-316",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Eritorbato de sodio, Eritorbato sódico, Eritorbato Na",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-320",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Butilhidroxianisol, Hidroxianisol butilado",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-321",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Butil hidroxitolueno, BHT",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-322",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Lecitina-N",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-325",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Lactato de sodio, Lactato sódico, Lactato de Na",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-326",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Lactato de potasio, Lactato potásico, Lactato de K",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-327",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Lactato de calcio, Lactato cálcico, Lactato Ca",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-330",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ácido cítrico",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-331",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Citrato de sodio, Citrato sódico, Citrato de Na",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-332",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Citrato de potasio, Citrato potásico, Citrato de K",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-333",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "citrato de calcio, Citrato cálcico, Citrato Ca",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-334",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ácido tartárico",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-335",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Tartrato de sodio, Tartrato sódico, Tartrato de Na",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-336",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Tartrato de potasio, Tartrato potásico, Tartrato de K",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-337",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Tartrato doble de sodio y potasio",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-338",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ácido ortofosfórico",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-339",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Sales ortofosfóricas",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-340",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Sales ortofosfóricas",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-341",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ácido ortofosfórico",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-380",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Citrato triamónico",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-385",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "EDTA, Ácido etilendiaminotetraacético, Etilenodiamino tetracetato cálcico disódico, Tetra acetato disódico de etilendiamina",
+    "e-type": "Antioxidante"
+  },
+  {
+    "e-id": "E-400",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Vegetal",
+    "e-name": "Ácido algínico",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-401",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Alginato de sodio, Alginato sódico, Alginato de Na",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-402",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Alginato de potasio, Alginato potásico, Alginato de K",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-403",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Alginato amónico",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-404",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Alginato de calcio, Alginato cálcico, Alginato de Ca",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-405",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Alginato de propilenglicol, Alginato de propilenoglicol, PGA",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-406",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Agar-Agar",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-407",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Carragenato, Carragenano, Carragenina",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-408",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Furcelerán",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-410",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Goma garrofin",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-411",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Harina tamari",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-412",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Goma guar",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-413",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Goma tragácica",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-414",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Goma arábica",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-415",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Vegetal",
+    "e-name": "Goma xantana, Xantano",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-416",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Goma K.",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-417",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Goma tara",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-418",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Goma gellan",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-420",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Sorbitol",
+    "e-type": "Edulcorante"
+  },
+  {
+    "e-id": "E-421",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Manitol",
+    "e-type": "Edulcorante"
+  },
+  {
+    "e-id": "E-422",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Glicerina",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-431",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Sorbitan",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-436",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Sorbitan",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-440",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Vegetal",
+    "e-name": "Pectina",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-440a",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Vegetal",
+    "e-name": "Pectinas",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-440b",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Pectina amidada",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-442",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Fosfátidos de amonio",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-444",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Acetato isobutírico",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-445",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Éter glicólico",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-450a",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Difosfatos disódicos pirofosfatos",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-450",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Difosfatos",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-451",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Trifosfatos",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-452",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Polifosfatos",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-460",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Celulosa",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-461",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Metil celulosa",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-462",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Etilcelulosa",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-463",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Hidroxiprolina",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-464",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Hidroxipropilmetilcelulosa",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-465",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Metiletilcelulosa",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-466",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Carboximetilcelulosa de Sodio",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-470",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Sales de Ácidos Grasos",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-470b",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Sales de magnesio de Ácidos Grasos",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-471",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Mono y Diglicéridos de Ácidos Grasos",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-472",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ésteres de Ácidos Grasos",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-473",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Sucroésteres de Ácidos Grasos",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-474",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Sucroglicéridos de Ácidos Grasos",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-475",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ésteres de Ácidos Grasos",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-476",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Polirricinoleato de Ácidos Grasos",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-477",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ésteres propano de Ácidos Grasos",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-478",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Lacatato de Ácidos Grasos",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-479",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Aceite soja oxid.",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-480",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ácido estérico",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-481",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Stearoil-2-lactato",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-482",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Stearoil-2-lactato, Calcio lactato",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-483",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Tartrato de Sterato, Tartrato esteárico",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-491",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Spans, Sorbitanos",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-492",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Triestearato de Sorbitán",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-495",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Spans",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-500",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Carbonato Na",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-501",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Carbonatos Ca",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-503",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Carbonato Amónico",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-504",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Carbonatos Mg",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-507",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ácido Clorhídrico",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-508",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Cloruro K",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-509",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Cloruro Ca",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-511",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Cloruro Mg",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-513",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ácido Sulfúrico",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-514",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Sulfatos",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-523",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Sulfatos",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-524",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Hidróx. de sales",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-528",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Hidróx. de sales",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-529",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Óxido de Ca",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-530",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Óxido Mg",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-535",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ferrocian. sales",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-536",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ferrocian. sales",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-541",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Fosfato ácido",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-542",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Animal",
+    "e-name": "Fosfato óseo",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-551",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Dióxido Silicio",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-552",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Silicato cálcico",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-553",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Talco",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-554",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Silicatos",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-556",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Silicatos",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-558",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Bentonita",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-559",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Silicato de Aluminio",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-570",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Ácidos grasos",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-572",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Esterato Mg",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-574",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ácido glucónico",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-575",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Glucono-delta-lactona",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-576",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Gluconato sódico",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-579",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Gluconato ferroso",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-585",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Lactato ferroso",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-620",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ácido glucónico",
+    "e-type": "Saborizante"
+  },
+  {
+    "e-id": "E-621",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Glutamatos",
+    "e-type": "Saborizante"
+  },
+  {
+    "e-id": "E-625",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Glutamatos",
+    "e-type": "Saborizante"
+  },
+  {
+    "e-id": "E-626",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Guanilatos",
+    "e-type": "Saborizante"
+  },
+  {
+    "e-id": "E-627",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Guanilato sódico",
+    "e-type": "Saborizante"
+  },
+  {
+    "e-id": "E-629",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Guanilatos",
+    "e-type": "Saborizante"
+  },
+  {
+    "e-id": "E-630",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Inosinatos",
+    "e-type": "Saborizante"
+  },
+  {
+    "e-id": "E-631",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Animal",
+    "e-name": "Inosinato de sodio 5",
+    "e-type": "Saborizante"
+  },
+  {
+    "e-id": "E-633",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Inosinatos",
+    "e-type": "Saborizante"
+  },
+  {
+    "e-id": "E-634",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ribonucleótidos discódicos",
+    "e-type": "Saborizante"
+  },
+  {
+    "e-id": "E-635",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ribonucleótidos discódicos",
+    "e-type": "Saborizante"
+  },
+  {
+    "e-id": "E-636",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Maltol",
+    "e-type": "Saborizante"
+  },
+  {
+    "e-id": "E-637",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Etil-maltol",
+    "e-type": "Saborizante"
+  },
+  {
+    "e-id": "E-640",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Glicina y su sal",
+    "e-type": "Saborizante"
+  },
+  {
+    "e-id": "E-900",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Dimetilpolisiloxano",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-901",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Animal",
+    "e-name": "Ceras",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-903",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Ceras",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-904",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Animal",
+    "e-name": "Goma laca",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-912",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ésteres del ácido montánico",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-913",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Animal",
+    "e-name": "Lanolina",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-914",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Cera polietileno",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-920",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Animal",
+    "e-name": "L-Cisteína",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-921",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Animal",
+    "e-name": "L-Cisteína",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-927",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Carbamida",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-950",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Acesulfamo potásico",
+    "e-type": "Edulcorante"
+  },
+  {
+    "e-id": "E-951",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Aspartamo (Fenilalanina)",
+    "e-type": "Edulcorante"
+  },
+  {
+    "e-id": "E-952",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Ciclamatos",
+    "e-type": "Edulcorante"
+  },
+  {
+    "e-id": "E-953",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Isolmaltitol",
+    "e-type": "Edulcorante"
+  },
+  {
+    "e-id": "E-954",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Sacarina",
+    "e-type": "Edulcorante"
+  },
+  {
+    "e-id": "E-955",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Sucralosa",
+    "e-type": "Edulcorante"
+  },
+  {
+    "e-id": "E-957",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Indeterminado",
+    "e-name": "Taumatina",
+    "e-type": "Edulcorante"
+  },
+  {
+    "e-id": "E-959",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Neohesperidina DC",
+    "e-type": "Edulcorante"
+  },
+  {
+    "e-id": "E-960",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Vegetal",
+    "e-name": "Glicósidos de esteviol, Esteviósido, Extracto de Stevia",
+    "e-type": "Edulcorante"
+  },
+  {
+    "e-id": "E-965",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Maltitol",
+    "e-type": "Edulcorante"
+  },
+  {
+    "e-id": "E-966",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Lactitol",
+    "e-type": "Edulcorante"
+  },
+  {
+    "e-id": "E-967",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Xilitol",
+    "e-type": "Edulcorante"
+  },
+  {
+    "e-id": "E-968",
+    "searchterm": "No nocivo",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Eritritol",
+    "e-type": "Edulcorante"
+  },
+  {
+    "e-id": "E-1000",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Animal",
+    "e-name": "Ácido cólico",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-1105",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Animal",
+    "e-name": "Lisozima (Muramidasa)",
+    "e-type": "Conservante"
+  },
+  {
+    "e-id": "E-1200",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Polidextrosa",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-1400",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Dextrina",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-1401",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Almidón ácido",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-1402",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Almidón alcalino modificado",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-1403",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Almidón blanqueado",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-1404",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Almidón oxidado",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-1405",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Almidón enzimático",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-1410",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Fosfato monoalmidón",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-1412",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Fosfato dialmidón",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-1413",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Fosfato dialmidón fosfatado",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-1414",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Fosfato dialmidón acetilado",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-1420",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Almidón acetilado",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-1422",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Adipato dialmidón acetilado",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-1440",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Hidroxipropil almidón",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-1442",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Fosfato dialmidón hidroxipropilado",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-1450",
+    "searchterm": "Sospechoso",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Octenil succinato sódico de almidón",
+    "e-type": "Estabilizante"
+  },
+  {
+    "e-id": "E-1518",
+    "searchterm": "¡Peligroso!",
+    "searchterm 2": "Químico o sintético",
+    "e-name": "Gliceril mono, di y tri-acetato de calcio",
+    "e-type": "Estabilizante"
+  }
+]

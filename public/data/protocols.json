@@ -1,0 +1,493 @@
+{
+  "groups": [
+    {
+      "id": "fitness-performance",
+      "title": "Fitness y Rendimiento",
+      "description": "Protocolos basados en evidencia científica para mejorar el rendimiento deportivo y la composición corporal",
+      "icon": "Dumbbell",
+      "color": "blue",
+      "protocols": [
+        {
+          "id": "proto-creatine-performance",
+          "title": "Protocolo de Creatina para Rendimiento",
+          "description": "Protocolo completo de creatina monohidrato basado en más de 500 estudios científicos que demuestran mejoras en fuerza, potencia y masa muscular.",
+          "category": "Fitness y Músculo",
+          "icon": "Dumbbell",
+          "coverImage": "/assets/creatine.jpg",
+          "difficulty": "Principiante",
+          "duration": "Continuo",
+          "evidence_level": "A+ (Muy Alta)",
+          "studies_count": "500+",
+          "supplements": [
+            {
+              "name": "Creatina Monohidrato",
+              "dosage": "Fase de carga: 20g/día (4 dosis de 5g) por 5-7 días. Mantenimiento: 3-5g/día",
+              "timing": "En cualquier momento del día. La consistencia es más importante que el timing.",
+              "rationale": "El suplemento más estudiado para el aumento de la fuerza, potencia y masa muscular. Aumenta los depósitos de fosfocreatina intramuscular, mejorando la resíntesis de ATP durante ejercicios de alta intensidad.",
+              "evidence": "Meta-análisis de 22 estudios muestra aumento promedio de 8% en fuerza y 14% en potencia. Efectos observados en 70-80% de usuarios.",
+              "safety": "Extremadamente seguro. No hay evidencia de daño renal o hepático en dosis recomendadas.",
+              "category_match": "Creatina",
+              "ean": "creatine_monohydrate"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>La creatina monohidrato es el suplemento deportivo más estudiado científicamente, con más de 500 estudios que respaldan su eficacia. Los meta-análisis muestran consistentemente mejoras en:</p><ul><li><strong>Fuerza:</strong> 8% de aumento promedio</li><li><strong>Potencia:</strong> 14% de aumento promedio</li><li><strong>Masa muscular:</strong> 1-2 kg en 8-12 semanas</li><li><strong>Rendimiento en sprints:</strong> 1-5% de mejora</li></ul><h3>Mecanismo de Acción</h3><p>La creatina aumenta los depósitos de fosfocreatina intramuscular, lo que mejora la resíntesis de ATP durante ejercicios de alta intensidad y corta duración. También aumenta la hidratación celular y puede estimular la síntesis de proteínas.</p><h3>Instrucciones de Uso</h3><ul><li><strong>Fase de carga:</strong> 20g/día dividido en 4 dosis de 5g durante 5-7 días</li><li><strong>Fase de mantenimiento:</strong> 3-5g/día de forma continua</li><li><strong>Timing:</strong> No es crítico, pero puede tomarse con carbohidratos para mejorar la absorción</li><li><strong>Hidratación:</strong> Mantener una hidratación adecuada (2-3L/día)</li></ul><h3>Consideraciones Especiales</h3><ul><li>Los vegetarianos pueden experimentar mayores beneficios debido a menores niveles basales</li><li>Algunos usuarios pueden experimentar retención de agua inicial (1-2 kg)</li><li>No es necesario ciclar la creatina</li><li>Compatible con ayuno intermitente</li></ul>"
+        },
+        {
+          "id": "proto-protein-recovery",
+          "title": "Protocolo de Proteína para Recuperación",
+          "description": "Protocolo optimizado de proteína whey para maximizar la síntesis de proteínas musculares y la recuperación post-entrenamiento.",
+          "category": "Fitness y Músculo",
+          "icon": "Zap",
+          "coverImage": "/assets/whey-protein.jpg",
+          "difficulty": "Principiante",
+          "duration": "Post-entrenamiento",
+          "evidence_level": "A (Alta)",
+          "studies_count": "200+",
+          "supplements": [
+            {
+              "name": "Proteína de Suero (Whey)",
+              "dosage": "20-40g por dosis",
+              "timing": "Dentro de los 60 minutos posteriores al entrenamiento, preferiblemente en los primeros 30 minutos.",
+              "rationale": "Proporciona aminoácidos esenciales de rápida absorción, especialmente leucina, que es el principal activador de la síntesis de proteínas musculares (mTOR).",
+              "evidence": "Estudios muestran que 20-40g de proteína whey maximiza la síntesis de proteínas musculares. La leucina (2-3g) es el aminoácido clave.",
+              "safety": "Muy seguro. Posibles molestias digestivas en personas con intolerancia a la lactosa.",
+              "category_match": "Proteínas",
+              "ean": "whey_protein"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>La proteína de suero es la fuente de proteína más eficaz para estimular la síntesis de proteínas musculares debido a su:</p><ul><li><strong>Perfil de aminoácidos completo:</strong> Contiene todos los aminoácidos esenciales</li><li><strong>Alto contenido de leucina:</strong> 2-3g por dosis, el principal activador de mTOR</li><li><strong>Rápida absorción:</strong> Pico de aminoácidos en sangre en 60-90 minutos</li><li><strong>Biodisponibilidad superior:</strong> 95-99% de absorción</li></ul><h3>Dosificación Óptima</h3><p>La investigación muestra que:</p><ul><li><strong>20g:</strong> Mínimo efectivo para la mayoría de personas</li><li><strong>40g:</strong> Máximo efectivo para personas grandes o entrenamientos muy intensos</li><li><strong>Más de 40g:</strong> No proporciona beneficios adicionales significativos</li></ul><h3>Timing Estratégico</h3><ul><li><strong>Ventana anabólica:</strong> 0-2 horas post-entrenamiento</li><li><strong>Pico de efectividad:</strong> Primeros 30 minutos</li><li><strong>Con carbohidratos:</strong> Mejora la absorción y la síntesis de proteínas</li></ul>"
+        },
+        {
+          "id": "proto-omega3-inflammation",
+          "title": "Protocolo Omega-3 Antiinflamatorio",
+          "description": "Protocolo de ácidos grasos omega-3 para reducir la inflamación, mejorar la recuperación y optimizar la salud cardiovascular.",
+          "category": "Salud y Bienestar",
+          "icon": "Heart",
+          "coverImage": "/assets/omega3.jpg",
+          "difficulty": "Principiante",
+          "duration": "Continuo",
+          "evidence_level": "A (Alta)",
+          "studies_count": "300+",
+          "supplements": [
+            {
+              "name": "Omega-3 (EPA/DHA)",
+              "dosage": "1-3g de EPA/DHA combinados por día",
+              "timing": "Con las comidas para mejorar la absorción",
+              "rationale": "Los ácidos grasos omega-3 (EPA y DHA) reducen la inflamación sistémica, mejoran la función cardiovascular y pueden acelerar la recuperación muscular.",
+              "evidence": "Meta-análisis muestran reducción del 23% en marcadores inflamatorios y mejora en la función endotelial. Beneficios cardiovasculares bien establecidos.",
+              "safety": "Muy seguro. Posible efecto anticoagulante en dosis altas (>3g/día).",
+              "category_match": "Omega 3",
+              "ean": "omega3_epa_dha"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>Los omega-3 (EPA y DHA) son ácidos grasos esenciales con potentes efectos antiinflamatorios:</p><ul><li><strong>Reducción de inflamación:</strong> Inhiben la producción de citoquinas proinflamatorias</li><li><strong>Salud cardiovascular:</strong> Reducen triglicéridos, presión arterial y riesgo de arritmias</li><li><strong>Recuperación muscular:</strong> Pueden acelerar la recuperación post-entrenamiento</li><li><strong>Función cognitiva:</strong> El DHA es crucial para la salud cerebral</li></ul><h3>Dosificación por Objetivos</h3><ul><li><strong>Salud general:</strong> 1g EPA/DHA por día</li><li><strong>Rendimiento deportivo:</strong> 2-3g EPA/DHA por día</li><li><strong>Inflamación crónica:</strong> 3g EPA/DHA por día</li><li><strong>Salud cardiovascular:</strong> 2-4g EPA/DHA por día</li></ul><h3>Calidad del Suplemento</h3><ul><li><strong>Pureza:</strong> Buscar certificación de pureza (IFOS, GOED)</li><li><strong>Concentración:</strong> Mínimo 60% EPA/DHA</li><li><strong>Estabilidad:</strong> Cápsulas con antioxidantes (vitamina E)</li><li><strong>Origen:</strong> Pescado de aguas profundas y frías</li></ul>"
+        },
+        {
+          "id": "proto-vitamin-d-optimization",
+          "title": "Protocolo de Optimización de Vitamina D",
+          "description": "Protocolo para optimizar los niveles de vitamina D3, crucial para la salud ósea, inmunidad y rendimiento deportivo.",
+          "category": "Vitaminas",
+          "icon": "Sun",
+          "coverImage": "/assets/vitamin-d.jpg",
+          "difficulty": "Principiante",
+          "duration": "Continuo",
+          "evidence_level": "A (Alta)",
+          "studies_count": "400+",
+          "supplements": [
+            {
+              "name": "Vitamina D3 (Colecalciferol)",
+              "dosage": "2000-4000 UI por día (50-100 mcg)",
+              "timing": "Con una comida que contenga grasas para mejorar la absorción",
+              "rationale": "La vitamina D3 es esencial para la absorción de calcio, función inmunitaria y puede mejorar la fuerza muscular y el rendimiento deportivo.",
+              "evidence": "Estudios muestran que niveles óptimos (>30 ng/mL) mejoran la fuerza muscular, reducen el riesgo de fracturas y mejoran la función inmunitaria.",
+              "safety": "Seguro en dosis recomendadas. Toxicidad rara por encima de 10,000 UI/día.",
+              "category_match": "Vitamina D",
+              "ean": "vitamin_d3"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>La vitamina D3 es una hormona esteroidea que regula más de 200 genes y es crucial para:</p><ul><li><strong>Salud ósea:</strong> Absorción de calcio y fosfato</li><li><strong>Función muscular:</strong> Mejora la fuerza y potencia muscular</li><li><strong>Inmunidad:</strong> Regula la respuesta inmunitaria</li><li><strong>Rendimiento deportivo:</strong> Puede mejorar la fuerza y la potencia</li></ul><h3>Dosificación Personalizada</h3><ul><li><strong>Niveles deficientes (<20 ng/mL):</strong> 4000-5000 UI/día</li><li><strong>Niveles insuficientes (20-30 ng/mL):</strong> 2000-3000 UI/día</li><li><strong>Mantenimiento (>30 ng/mL):</strong> 1000-2000 UI/día</li><li><strong>Población de riesgo:</strong> Personas con piel oscura, obesidad, o poca exposición solar</li></ul><h3>Optimización de la Absorción</h3><ul><li><strong>Con grasas:</strong> Tomar con una comida que contenga 10-15g de grasa</li><li><strong>Magnesio:</strong> El magnesio es necesario para la activación de la vitamina D</li><li><strong>Vitamina K2:</strong> Mejora la utilización del calcio</li><li><strong>Exposición solar:</strong> 15-30 minutos de sol directo en brazos y piernas</li></ul>"
+        },
+        {
+          "id": "proto-magnesium-recovery",
+          "title": "Protocolo de Magnesio para Recuperación",
+          "description": "Protocolo de magnesio para mejorar la calidad del sueño, reducir la fatiga muscular y optimizar la recuperación.",
+          "category": "Minerales",
+          "icon": "Moon",
+          "coverImage": "/assets/magnesium.jpg",
+          "difficulty": "Principiante",
+          "duration": "Continuo",
+          "evidence_level": "B+ (Buena)",
+          "studies_count": "100+",
+          "supplements": [
+            {
+              "name": "Magnesio (Glicinato o Citrato)",
+              "dosage": "200-400mg de magnesio elemental por día",
+              "timing": "30-60 minutos antes de dormir para mejorar el sueño",
+              "rationale": "El magnesio es un cofactor en más de 300 reacciones enzimáticas, incluyendo la síntesis de ATP, la función muscular y la regulación del sueño.",
+              "evidence": "Estudios muestran mejoras en la calidad del sueño, reducción de calambres musculares y mejor recuperación en atletas.",
+              "safety": "Muy seguro. Posibles efectos laxantes en dosis altas.",
+              "category_match": "Magnesio",
+              "ean": "magnesium_glycinate"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>El magnesio es el cuarto mineral más abundante en el cuerpo y es esencial para:</p><ul><li><strong>Síntesis de ATP:</strong> Cofactor en la producción de energía</li><li><strong>Función muscular:</strong> Contracción y relajación muscular</li><li><strong>Calidad del sueño:</strong> Regula GABA y melatonina</li><li><strong>Recuperación:</strong> Reduce la inflamación y el estrés oxidativo</li></ul><h3>Formas de Magnesio</h3><ul><li><strong>Glicinato:</strong> Mejor absorción, menos efectos laxantes</li><li><strong>Citrato:</strong> Buena absorción, puede tener efecto laxante</li><li><strong>Óxido:</strong> Baja absorción, no recomendado</li><li><strong>Malato:</strong> Bueno para fatiga muscular</li></ul><h3>Dosificación y Timing</h3><ul><li><strong>Dosis diaria:</strong> 200-400mg de magnesio elemental</li><li><strong>Timing óptimo:</strong> 30-60 minutos antes de dormir</li><li><strong>Con comida:</strong> Mejora la absorción</li><li><strong>División de dosis:</strong> Puede dividirse en 2-3 tomas</li></ul>"
+        },
+        {
+          "id": "proto-caffeine-01",
+          "title": "Optimización con Cafeína",
+          "description": "Protocolo para maximizar el rendimiento deportivo y cognitivo mediante el uso estratégico de cafeína.",
+          "category": "Fitness y Músculo",
+          "icon": "Coffee",
+          "coverImage": "/assets/caffeine.jpg",
+          "difficulty": "Principiante",
+          "duration": "Según necesidad",
+          "supplements": [
+            {
+              "name": "Cafeína Anhidra",
+              "dosage": "3-6mg por kg de peso corporal",
+              "timing": "30-60 minutos antes del ejercicio o actividad cognitiva.",
+              "rationale": "Mejora el rendimiento deportivo, reduce la percepción del esfuerzo y aumenta el estado de alerta mental.",
+              "ean": "0039442042159"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>La cafeína es uno de los suplementos más estudiados y efectivos para mejorar el rendimiento. Actúa bloqueando los receptores de adenosina, lo que resulta en mayor alerta, reducción de la fatiga y mejora del rendimiento tanto físico como mental.</p><h3>Instrucciones</h3><ul><li>Calcula tu dosis: 3-6mg por kg de peso corporal (ej: 70kg = 210-420mg).</li><li>Toma 30-60 minutos antes del ejercicio para permitir la absorción completa.</li><li>Evita dosis superiores a 9mg/kg para prevenir efectos adversos como nerviosismo o insomnio.</li><li>Considera un período de abstinencia de 1-2 semanas cada 2-3 meses para mantener la sensibilidad.</li></ul>"
+        },
+        {
+          "id": "proto-nitrate-01",
+          "title": "Rendimiento con Nitratos",
+          "description": "Protocolo para mejorar la eficiencia energética y el rendimiento en deportes de resistencia.",
+          "category": "Fitness y Músculo",
+          "icon": "Zap",
+          "coverImage": "/assets/beetroot.jpg",
+          "difficulty": "Intermedio",
+          "duration": "2-3 horas antes del ejercicio",
+          "supplements": [
+            {
+              "name": "Jugo de Remolacha o Nitrato de Sodio",
+              "dosage": "300-600mg de nitratos",
+              "timing": "2-3 horas antes del ejercicio de resistencia.",
+              "rationale": "Los nitratos se convierten en óxido nítrico, mejorando la eficiencia energética y el flujo sanguíneo durante el ejercicio.",
+              "ean": "733739004002"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>Los nitratos dietéticos se convierten en óxido nítrico (NO) en el cuerpo, lo que mejora la eficiencia mitocondrial y reduce el costo de oxígeno durante el ejercicio. Esto resulta en mejor rendimiento en actividades de resistencia de 4-30 minutos de duración.</p><h3>Instrucciones</h3><ul><li>Puedes usar jugo de remolacha natural (500ml) o suplementos de nitrato de sodio.</li><li>El momento óptimo es 2-3 horas antes del ejercicio para permitir la conversión a óxido nítrico.</li><li>Evita enjuagarte la boca con enjuague bucal antibacteriano, ya que mata las bacterias necesarias para la conversión.</li><li>Los efectos pueden durar hasta 24 horas, por lo que es útil para competiciones.</li></ul>"
+        },
+        {
+          "id": "proto-bicarbonate-01",
+          "title": "Buffering con Bicarbonato",
+          "description": "Protocolo para mejorar el rendimiento en ejercicios de alta intensidad mediante la neutralización del ácido láctico.",
+          "category": "Fitness y Músculo",
+          "icon": "Activity",
+          "coverImage": "/assets/bicarbonate.jpg",
+          "difficulty": "Avanzado",
+          "duration": "60-90 minutos antes del ejercicio",
+          "supplements": [
+            {
+              "name": "Bicarbonato de Sodio",
+              "dosage": "0.3g por kg de peso corporal",
+              "timing": "60-90 minutos antes del ejercicio de alta intensidad.",
+              "rationale": "Actúa como agente tamponador, neutralizando el ácido láctico y retrasando la fatiga muscular.",
+              "ean": "733739004003"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>El bicarbonato de sodio actúa como un buffer extracelular, ayudando a neutralizar el ácido láctico que se acumula durante ejercicios de alta intensidad. Esto permite mantener la intensidad del ejercicio por más tiempo antes de que aparezca la fatiga.</p><h3>Instrucciones</h3><ul><li>Calcula tu dosis: 0.3g por kg de peso corporal (ej: 70kg = 21g).</li><li>Disuelve en 1 litro de agua y bebe gradualmente para minimizar molestias gastrointestinales.</li><li>Prueba primero en entrenamientos para evaluar tu tolerancia individual.</li><li>Puede causar diarrea o malestar estomacal en algunas personas.</li><li>Mejor para ejercicios de 1-7 minutos de duración máxima.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "health-wellness",
+      "title": "Salud y Bienestar",
+      "description": "Protocolos para mantener y mejorar tu salud general",
+      "icon": "Heart",
+      "color": "green",
+      "protocols": [
+        {
+          "id": "proto-immune-01",
+          "title": "Soporte Inmunológico",
+          "description": "Un protocolo con los nutrientes clave para mantener un sistema inmunitario fuerte y resistente.",
+          "category": "Salud y Bienestar",
+          "icon": "Shield",
+          "coverImage": "/assets/vitamin-c.jpg",
+          "difficulty": "Principiante",
+          "duration": "Diario, especialmente en invierno",
+          "supplements": [
+            {
+              "name": "Vitamina D3",
+              "dosage": "2000-4000 UI (ajustar según niveles séricos: objetivo 30-50 ng/mL)",
+              "timing": "Con una comida que contenga grasas (ej. almuerzo) para mejorar su absorción.",
+              "rationale": "Esencial para la función inmunitaria. La deficiencia es común y está ligada a un mayor riesgo de infecciones. Monitorear niveles séricos cada 3-6 meses.",
+              "ean": "0033984032709"
+            },
+            {
+              "name": "Vitamina C",
+              "dosage": "500-1000mg",
+              "timing": "Puede tomarse en cualquier momento, pero divídela en dos dosis si es alta para mejorar la absorción.",
+              "rationale": "Un potente antioxidante que apoya la función de varias células inmunitarias.",
+              "ean": "8436542625039"
+            },
+            {
+              "name": "Zinc (Picolinato o Glicinato)",
+              "dosage": "15-30mg",
+              "timing": "Con una comida para evitar náuseas. No tomar junto a suplementos de calcio o hierro.",
+              "rationale": "Crucial para el desarrollo y la función de las células inmunitarias. Tomarlo al primer síntoma puede acortar resfriados.",
+              "ean": "0033984019403"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>La 'Santísima Trinidad' del soporte inmunitario. La Vitamina D actúa casi como una hormona en el sistema inmune. La Vitamina C es un antioxidante fundamental. El Zinc es un mineral esencial para la correcta función de los glóbulos blancos. Juntos, ofrecen un soporte robusto.</p><h3>Instrucciones</h3><ul><li>La Vitamina D3 es liposoluble, por lo que es importante tomarla con alimentos que contengan algo de grasa.</li><li>Si tomas una dosis alta de Zinc, asegúrate de tener niveles adecuados de Cobre, ya que compiten por la absorción.</li><li>La Vitamina C puede aumentar la absorción de hierro, tenlo en cuenta si tomas suplementos de hierro.</li></ul>"
+        },
+        {
+          "id": "proto-omega3-01",
+          "title": "Antiinflamatorio Omega-3",
+          "description": "Protocolo para reducir la inflamación sistémica y mejorar la recuperación mediante ácidos grasos omega-3.",
+          "category": "Salud y Bienestar",
+          "icon": "Heart",
+          "coverImage": "/assets/omega-3.jpg",
+          "difficulty": "Principiante",
+          "duration": "Continuo",
+          "supplements": [
+            {
+              "name": "Aceite de Pescado (EPA + DHA)",
+              "dosage": "1-3g de EPA + DHA combinados",
+              "timing": "Con una comida que contenga grasas para mejorar la absorción.",
+              "rationale": "Los ácidos grasos omega-3 tienen potentes propiedades antiinflamatorias que mejoran la recuperación y la salud cardiovascular.",
+              "ean": "088395018306"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>Los ácidos grasos EPA y DHA son precursores de moléculas antiinflamatorias llamadas resolvinas y protectinas. Reducen la inflamación crónica de bajo grado, mejoran la función cardiovascular y pueden acelerar la recuperación post-ejercicio.</p><h3>Instrucciones</h3><ul><li>Busca un suplemento con alta concentración de EPA y DHA (al menos 60% del total).</li><li>Toma con una comida que contenga grasas para maximizar la absorción.</li><li>Los efectos antiinflamatorios son acumulativos y se notan después de 4-8 semanas.</li><li>Considera un ratio EPA:DHA de 2:1 para máximo beneficio antiinflamatorio.</li><li>Puede interactuar con medicamentos anticoagulantes, consulta con tu médico.</li></ul>"
+        },
+        {
+          "id": "proto-probiotics-01",
+          "title": "Salud Digestiva con Probióticos",
+          "description": "Protocolo para mejorar la salud intestinal, la función inmunológica y la absorción de nutrientes.",
+          "category": "Salud y Bienestar",
+          "icon": "Stomach",
+          "coverImage": "/assets/probiotics.jpg",
+          "difficulty": "Principiante",
+          "duration": "Continuo (mínimo 4 semanas)",
+          "supplements": [
+            {
+              "name": "Probióticos Multi-Cepa",
+              "dosage": "10-50 mil millones de UFC",
+              "timing": "En ayunas o con una comida ligera.",
+              "rationale": "Mejora la diversidad del microbioma intestinal, fortalece el sistema inmunológico y optimiza la absorción de nutrientes.",
+              "ean": "733739004000"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>Los probióticos colonizan el intestino y compiten con bacterias patógenas, producen compuestos beneficiosos como ácidos grasos de cadena corta, y modulan la respuesta inmunológica. Un microbioma saludable es fundamental para la absorción de nutrientes y la salud general.</p><h3>Instrucciones</h3><ul><li>Busca cepas específicas como Lactobacillus acidophilus, Bifidobacterium bifidum, y Lactobacillus rhamnosus.</li><li>Toma en ayunas o con una comida ligera para maximizar la supervivencia de las bacterias.</li><li>Evita tomarlos con bebidas calientes que puedan matar las bacterias.</li><li>Los efectos se notan después de 2-4 semanas de uso consistente.</li><li>Combina con prebióticos (fibra) para alimentar a las bacterias beneficiosas.</li></ul>"
+        },
+        {
+          "id": "proto-zinc-01",
+          "title": "Soporte Inmunológico con Zinc",
+          "description": "Protocolo para fortalecer el sistema inmunológico y mejorar la recuperación mediante la suplementación con zinc.",
+          "category": "Salud y Bienestar",
+          "icon": "Shield",
+          "coverImage": "/assets/zinc.jpg",
+          "difficulty": "Principiante",
+          "duration": "Continuo o durante períodos de estrés",
+          "supplements": [
+            {
+              "name": "Zinc (Picolinato o Bisglicinato)",
+              "dosage": "15-30mg",
+              "timing": "Con una comida, separado de suplementos de calcio o hierro.",
+              "rationale": "Esencial para la función inmunológica, la síntesis de proteínas y la cicatrización. Puede acortar la duración de resfriados.",
+              "ean": "0033984019403"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>El zinc es un cofactor esencial para más de 300 enzimas en el cuerpo, incluyendo aquellas involucradas en la función inmunológica. La deficiencia de zinc está asociada con mayor susceptibilidad a infecciones y recuperación más lenta.</p><h3>Instrucciones</h3><ul><li>Toma con una comida para evitar náuseas y mejorar la absorción.</li><li>Separa de suplementos de calcio, hierro o cobre por al menos 2 horas.</li><li>Para resfriados, toma al primer síntoma y continúa por 5-7 días.</li><li>No excedas 40mg diarios a largo plazo para evitar deficiencia de cobre.</li><li>Considera suplementar con cobre (2mg) si tomas zinc a largo plazo.</li></ul>"
+        },
+        {
+          "id": "proto-magnesium-01",
+          "title": "Optimización con Magnesio",
+          "description": "Protocolo para mejorar la función muscular, el sueño y la relajación mediante la suplementación con magnesio.",
+          "category": "Salud y Bienestar",
+          "icon": "Moon",
+          "coverImage": "/assets/magnesium.jpg",
+          "difficulty": "Principiante",
+          "duration": "Continuo",
+          "supplements": [
+            {
+              "name": "Magnesio (Glicinato o Bisglicinato)",
+              "dosage": "200-400mg de magnesio elemental",
+              "timing": "30-60 minutos antes de dormir o dividido en dos dosis.",
+              "rationale": "Esencial para más de 300 reacciones enzimáticas, mejora la relajación muscular, la calidad del sueño y la función nerviosa.",
+              "ean": "8436046975549"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>El magnesio es el cuarto mineral más abundante en el cuerpo y es crucial para la función muscular, nerviosa y cardiovascular. La deficiencia es común y está asociada con calambres musculares, insomnio, ansiedad y fatiga.</p><h3>Instrucciones</h3><ul><li>Usa formas queladas como glicinato o bisglicinato para mejor absorción y menos efectos laxantes.</li><li>Puedes dividir la dosis: 200mg por la mañana y 200mg antes de dormir.</li><li>Evita el óxido de magnesio, que tiene baja biodisponibilidad.</li><li>Puede causar heces blandas si la dosis es muy alta.</li><li>Mejora la absorción de vitamina D cuando se toman juntos.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "recovery-rest",
+      "title": "Descanso y Recuperación",
+      "description": "Protocolos para optimizar tu descanso y recuperación",
+      "icon": "Bed",
+      "color": "purple",
+      "protocols": [
+        {
+          "id": "proto-sleep-01",
+          "title": "Mejora del Sueño",
+          "description": "Un protocolo fundamental para optimizar la calidad del sueño, la recuperación y la función cognitiva.",
+          "category": "Descanso y Recuperación",
+          "icon": "Bed",
+          "coverImage": "/assets/magnesium.jpg",
+          "difficulty": "Principiante",
+          "duration": "Continuo",
+          "supplements": [
+            {
+              "name": "Magnesio (Glicinato o Bisglicinato)",
+              "dosage": "200-400mg de magnesio elemental",
+              "timing": "30-60 minutos antes de dormir, o dividido: 200mg mañana + 200mg noche.",
+              "rationale": "Promueve la relajación del sistema nervioso y mejora la calidad del sueño profundo. Formas queladas tienen mejor absorción y menos efectos laxantes.",
+              "ean": "8436046975549" 
+            },
+            {
+              "name": "L-Teanina",
+              "dosage": "100-200mg",
+              "timing": "30-60 minutos antes de dormir.",
+              "rationale": "Un aminoácido que induce un estado de calma sin somnolencia, reduciendo la ansiedad y mejorando el inicio del sueño.",
+              "ean": "0790011270110"
+            },
+            {
+              "name": "Apigenina",
+              "dosage": "50mg",
+              "timing": "30-60 minutos antes de dormir.",
+              "rationale": "Un bioflavonoide que se une a receptores en el cerebro para disminuir la ansiedad y promover el sueño.",
+              "ean": "0029964013442"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>Este protocolo combina tres de los compuestos más estudiados y efectivos para la mejora del sueño. El Glicinato de Magnesio es una forma altamente biodisponible que no causa malestar estomacal. La L-Teanina, encontrada en el té verde, es conocida por sus propiedades relajantes. La Apigenina, presente en la manzanilla, complementa la acción calmante.</p><h3>Instrucciones</h3><ul><li>Toma los tres suplementos juntos con un vaso de agua antes de acostarte.</li><li>Evita las pantallas (móvil, TV) al menos 30 minutos después de tomarlos.</li><li>Mantén un horario de sueño regular para maximizar los efectos.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "cognitive-focus",
+      "title": "Cognición y Enfoque",
+      "description": "Protocolos para mejorar tu función cognitiva y concentración",
+      "icon": "Brain",
+      "color": "indigo",
+      "protocols": [
+        {
+          "id": "proto-focus-01",
+          "title": "Enfoque y Claridad Mental",
+          "description": "Potencia tu función cognitiva, memoria y concentración con este stack nootrópico.",
+          "category": "Salud y Bienestar",
+          "icon": "Brain",
+          "coverImage": "/assets/omega-3.jpg",
+          "difficulty": "Intermedio",
+          "duration": "Según necesidad (días de trabajo/estudio)",
+          "supplements": [
+            {
+              "name": "L-Teanina",
+              "dosage": "200mg",
+              "timing": "Por la mañana, idealmente combinado con cafeína.",
+              "rationale": "Promueve un estado de 'alerta calmada', mejorando el enfoque y reduciendo los efectos negativos de la cafeína.",
+              "ean": "0790011270110"
+            },
+            {
+              "name": "Omega-3 (EPA & DHA)",
+              "dosage": "1-2g",
+              "timing": "Con una comida que contenga grasas.",
+              "rationale": "Los ácidos grasos EPA y DHA son componentes estructurales del cerebro, cruciales para la función neuronal y la salud cognitiva.",
+              "ean": "088395018306"
+            },
+            {
+              "name": "EAA (Aminoácidos Esenciales)",
+              "dosage": "10-15g",
+              "timing": "Durante periodos de alta demanda mental, antes del ejercicio o entre comidas.",
+              "rationale": "Los aminoácidos esenciales son superiores a los BCAAs para la síntesis de proteínas. Incluyen todos los 9 aminoácidos esenciales necesarios para la función cognitiva y muscular.",
+              "ean": "851860006286"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>Este protocolo combina aminoácidos y ácidos grasos esenciales para optimizar la neurotransmisión y la salud cerebral. La sinergia de L-Teanina con cafeína es uno de los stacks nootrópicos más seguros y efectivos. El Omega-3 es fundamental para la plasticidad sináptica y la comunicación celular en el cerebro. Los EAA son superiores a los BCAAs para la síntesis de proteínas.</p><h3>Instrucciones</h3><ul><li>Puedes combinar la L-Teanina con tu café matutino.</li><li>Busca un suplemento de Omega-3 con una alta concentración de EPA y DHA.</li><li>Los EAA son especialmente útiles durante largas sesiones de trabajo o estudio para mantener la agudeza mental.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "joints-mobility",
+      "title": "Articulaciones y Movilidad",
+      "description": "Protocolos para mantener la salud articular y la movilidad",
+      "icon": "Bone",
+      "color": "orange",
+      "protocols": [
+        {
+          "id": "proto-joints-01",
+          "title": "Salud Articular y Movilidad",
+          "description": "Un protocolo diseñado para proteger, nutrir y mantener la flexibilidad de tus articulaciones.",
+          "category": "Salud y Bienestar",
+          "icon": "Bone",
+          "coverImage": "/assets/collagen.jpg",
+          "difficulty": "Principiante",
+          "duration": "Continuo (mínimo 3 meses)",
+          "supplements": [
+            {
+              "name": "Colágeno Hidrolizado (Tipo II)",
+              "dosage": "10g",
+              "timing": "En cualquier momento del día, con estómago vacío para mejor absorción.",
+              "rationale": "Proporciona los péptidos necesarios para la síntesis de cartílago, ayudando a mantener la integridad estructural de las articulaciones.",
+              "ean": "733739004001"
+            },
+            {
+              "name": "Omega-3",
+              "dosage": "2-3g",
+              "timing": "Con una comida para mejorar la absorción.",
+              "rationale": "Potentes propiedades antiinflamatorias que pueden ayudar a reducir el dolor y la rigidez articular.",
+              "ean": "088395018306"
+            },
+            {
+              "name": "Vitamina C",
+              "dosage": "500mg",
+              "timing": "Junto con el colágeno.",
+              "rationale": "Es un cofactor esencial en la síntesis de colágeno. Tomarlos juntos maximiza la producción de nuevo tejido conectivo.",
+              "ean": "8436542625039"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>Este protocolo aborda la salud articular desde dos frentes: estructural y antiinflamatorio. El colágeno hidrolizado ofrece los 'ladrillos' para reconstruir el cartílago, mientras que el Omega-3 reduce la inflamación sistémica que puede degradar las articulaciones. La Vitamina C es el 'cemento' que une todo.</p><h3>Instrucciones</h3><ul><li>Disuelve el colágeno en tu bebida matutina (café, té, batido). Es insípido.</li><li>Los efectos en la salud articular son acumulativos, sé constante durante al menos 3-6 meses para notar beneficios.</li><li>Considera añadir Cúrcuma con Pimienta Negra como un potente antiinflamatorio natural complementario.</li></ul>"
+        }
+      ]
+    },
+    {
+      "id": "longevity-antiaging",
+      "title": "Longevidad y Antienvejecimiento",
+      "description": "Protocolos para un envejecimiento saludable y longevidad",
+      "icon": "HeartPulse",
+      "color": "emerald",
+      "protocols": [
+        {
+          "id": "proto-longevity-01",
+          "title": "Longevidad y Salud Celular",
+          "description": "Apoya los procesos de envejecimiento saludable a nivel celular con estos compuestos clave.",
+          "category": "Salud y Bienestar",
+          "icon": "HeartPulse",
+          "coverImage": "/assets/greens-powder.jpg",
+          "difficulty": "Avanzado",
+          "duration": "Continuo",
+          "supplements": [
+            {
+              "name": "Greens Powder (con Espirulina y Chlorella)",
+              "dosage": "1 scoop",
+              "timing": "Por la mañana en ayunas.",
+              "rationale": "Aporta una densidad increíble de micronutrientes, antioxidantes y polifenoles que combaten el estrés oxidativo, uno de los pilares del envejecimiento.",
+              "ean": "0689104169557"
+            },
+            {
+              "name": "Omega-3",
+              "dosage": "2g",
+              "timing": "Con una comida.",
+              "rationale": "Ayuda a mantener la fluidez de las membranas celulares y a controlar la inflamación crónica de bajo grado (inflammaging).",
+              "ean": "088395018306"
+            },
+            {
+              "name": "Vitamina D3",
+              "dosage": "2000-4000 UI",
+              "timing": "Con una comida que contenga grasas.",
+              "rationale": "Juega un rol crucial en la regulación genética y la salud del sistema inmune, ambos importantes para un envejecimiento saludable.",
+              "ean": "0033984032709"
+            }
+          ],
+          "content": "<h3>Fundamento Científico</h3><p>Este protocolo se centra en mitigar los factores clave del envejecimiento celular: estrés oxidativo, inflamación crónica y desregulación inmune. Los polifenoles de los 'Greens' activan vías de longevidad. El Omega-3 es esencial para la integridad estructural de cada célula del cuerpo, y la Vitamina D actúa como una hormona reguladora de cientos de genes.</p><h3>Instrucciones</h3><ul><li>El sabor de los 'Greens Powders' puede ser intenso. Mézclalo con poca agua para tomarlo rápido o en un batido de frutas para enmascarar el sabor.</li><li>La consistencia a largo plazo es la clave para los beneficios en longevidad.</li><li>Este protocolo es una base. Considera investigar sobre otros compuestos como NMN o Resveratrol si quieres profundizar.</li></ul>"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,350 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Definition of the design system. All colors, gradients, fonts, etc should be defined here. 
+All colors MUST be HSL.
+*/
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 222.2 84% 4.9%;
+
+    --card: 0 0% 100%;
+    --card-foreground: 222.2 84% 4.9%;
+
+    --popover: 0 0% 100%;
+    --popover-foreground: 222.2 84% 4.9%;
+
+    --primary: 146 70% 47%;
+    --primary-foreground: 0 0% 100%;
+    --primary-glow: 146 70% 55%;
+
+    --secondary: 210 11% 96%;
+    --secondary-foreground: 222.2 47.4% 11.2%;
+
+    --muted: 210 11% 96%;
+    --muted-foreground: 215.4 16.3% 46.9%;
+
+    --accent: 146 70% 47%;
+    --accent-foreground: 0 0% 100%;
+
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 214.3 31.8% 91.4%;
+    --input: 214.3 31.8% 91.4%;
+    --ring: 146 70% 47%;
+
+    --success: 146 70% 47%;
+    --success-foreground: 0 0% 100%;
+
+    --wellness-bg: 220 13% 97%;
+    --wellness-text: 220 9% 46%;
+
+    --gradient-primary: linear-gradient(135deg, hsl(var(--primary)), hsl(var(--primary-glow)));
+    --gradient-wellness: linear-gradient(135deg, hsl(var(--wellness-bg)), hsl(var(--secondary)));
+    --gradient-success: linear-gradient(135deg, hsl(var(--success)), hsl(146 70% 55%));
+    --gradient-celebration: linear-gradient(45deg, hsl(var(--primary)), hsl(var(--success)), hsl(var(--primary-glow)));
+
+    --shadow-card: 0 1px 3px 0 hsl(220 13% 69% / 0.1), 0 1px 2px -1px hsl(220 13% 69% / 0.1);
+    --shadow-button: 0 4px 6px -1px hsl(146 70% 47% / 0.1);
+    --shadow-glow: 0 0 20px hsl(var(--primary) / 0.3);
+    --shadow-card-hover: 0 4px 12px 0 hsl(220 13% 69% / 0.15), 0 2px 4px -1px hsl(220 13% 69% / 0.15);
+
+    --protein: 0 84% 60%;
+    --protein-foreground: 0 0% 100%;
+    --carbs: 25 95% 53%;
+    --carbs-foreground: 0 0% 100%;
+    --fats: 221 83% 53%;
+    --fats-foreground: 0 0% 100%;
+
+    --radius: 0.75rem;
+    --radius-lg: 1rem;
+
+    --sidebar-background: 0 0% 98%;
+    --sidebar-foreground: 240 5.3% 26.1%;
+    --sidebar-primary: 240 5.9% 10%;
+    --sidebar-primary-foreground: 0 0% 98%;
+    --sidebar-accent: 240 4.8% 95.9%;
+    --sidebar-accent-foreground: 240 5.9% 10%;
+    --sidebar-border: 220 13% 91%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+
+  .dark {
+    --background: 222.2 84% 4.9%;
+    --foreground: 210 40% 98%;
+
+    --card: 222.2 84% 4.9%;
+    --card-foreground: 210 40% 98%;
+
+    --popover: 222.2 84% 4.9%;
+    --popover-foreground: 210 40% 98%;
+
+    --primary: 210 40% 98%;
+    --primary-foreground: 222.2 47.4% 11.2%;
+
+    --secondary: 217.2 32.6% 17.5%;
+    --secondary-foreground: 210 40% 98%;
+
+    --muted: 217.2 32.6% 17.5%;
+    --muted-foreground: 215 20.2% 65.1%;
+
+    --accent: 217.2 32.6% 17.5%;
+    --accent-foreground: 210 40% 98%;
+
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 210 40% 98%;
+
+    --border: 217.2 32.6% 17.5%;
+    --input: 217.2 32.6% 17.5%;
+    --ring: 212.7 26.8% 83.9%;
+    --sidebar-background: 240 5.9% 10%;
+    --sidebar-foreground: 240 4.8% 95.9%;
+    --sidebar-primary: 224.3 76.3% 48%;
+    --sidebar-primary-foreground: 0 0% 100%;
+    --sidebar-accent: 240 3.7% 15.9%;
+    --sidebar-accent-foreground: 240 4.8% 95.9%;
+    --sidebar-border: 240 3.7% 15.9%;
+    --sidebar-ring: 217.2 91.2% 59.8%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+
+  body {
+    @apply bg-background text-foreground font-sans;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-heading;
+  }
+}
+
+@layer components {
+  .card-interactive {
+    @apply transition-all duration-300 ease-out hover:shadow-card-hover hover:scale-[1.02];
+  }
+
+  .button-glow {
+    @apply relative overflow-hidden;
+  }
+
+  .button-glow::before {
+    @apply absolute inset-0 bg-gradient-to-r from-transparent via-white/20 to-transparent transform -translate-x-full transition-transform duration-1000;
+    content: '';
+  }
+
+  .button-glow:hover::before {
+    @apply translate-x-full;
+  }
+
+  .celebration-particle {
+    @apply absolute w-2 h-2 bg-primary rounded-full animate-bounce;
+    animation-duration: 0.6s;
+    animation-delay: var(--delay, 0s);
+  }
+
+  .glass-effect {
+    @apply bg-white/10 backdrop-blur-md border border-white/20;
+  }
+
+  .gradient-text {
+    @apply bg-gradient-to-r from-primary to-primary-glow bg-clip-text text-transparent;
+  }
+
+  .text-completed {
+    @apply opacity-70 transition-all duration-300;
+  }
+
+  .strike-line {
+    @apply absolute top-1/2 left-0 h-[1px] bg-foreground/60 animate-strike-through;
+    transform: translateY(-50%);
+  }
+
+  /* Line clamp utilities */
+  .line-clamp-1 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 1;
+  }
+
+  .line-clamp-2 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
+  .line-clamp-3 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+  }
+
+  /* Scroll horizontal personalizado */
+  .scrollbar-hide {
+    -ms-overflow-style: none;
+    scrollbar-width: none;
+  }
+  
+  .scrollbar-hide::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Scroll horizontal con estilos personalizados */
+  .scrollbar-thin {
+    scrollbar-width: thin;
+    scrollbar-color: hsl(var(--muted-foreground)) transparent;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar {
+    height: 6px;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar-track {
+    background: transparent;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar-thumb {
+    background-color: hsl(var(--muted-foreground));
+    border-radius: 3px;
+  }
+  
+  .scrollbar-thin::-webkit-scrollbar-thumb:hover {
+    background-color: hsl(var(--foreground));
+  }
+
+  /* Estilos para el slider verde del onboarding */
+  .slider-green {
+    -webkit-appearance: none;
+    appearance: none;
+  }
+
+  .slider-green::-webkit-slider-thumb {
+    -webkit-appearance: none;
+    appearance: none;
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background: #10b981 !important;
+    cursor: pointer;
+    border: 2px solid #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+
+  .slider-green::-moz-range-thumb {
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background: #10b981 !important;
+    cursor: pointer;
+    border: 2px solid #ffffff;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  }
+
+  /* Estilos adicionales para asegurar que se aplique */
+  input[type="range"].slider-green::-webkit-slider-thumb {
+    background: #10b981 !important;
+  }
+
+  input[type="range"].slider-green::-moz-range-thumb {
+    background: #10b981 !important;
+  }
+
+  /* Estilos globales para todos los sliders del onboarding */
+  input[type="range"] {
+    -webkit-appearance: none !important;
+    appearance: none !important;
+  }
+
+  input[type="range"]::-webkit-slider-thumb {
+    -webkit-appearance: none !important;
+    appearance: none !important;
+    height: 20px !important;
+    width: 20px !important;
+    border-radius: 50% !important;
+    background: #10b981 !important;
+    cursor: pointer !important;
+    border: 2px solid #ffffff !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2) !important;
+  }
+
+  input[type="range"]::-moz-range-thumb {
+    height: 20px !important;
+    width: 20px !important;
+    border-radius: 50% !important;
+    background: #10b981 !important;
+    cursor: pointer !important;
+    border: 2px solid #ffffff !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2) !important;
+    -moz-appearance: none !important;
+  }
+
+  /* Estilos específicos para el slider del onboarding */
+  .slider-green::-webkit-slider-thumb {
+    background: #10b981 !important;
+    border: 2px solid #ffffff !important;
+  }
+
+  .slider-green::-moz-range-thumb {
+    background: #10b981 !important;
+    border: 2px solid #ffffff !important;
+  }
+
+  /* Estilos ultra-específicos para forzar el color verde */
+  input[type="range"].slider-green::-webkit-slider-thumb {
+    -webkit-appearance: none !important;
+    appearance: none !important;
+    height: 20px !important;
+    width: 20px !important;
+    border-radius: 50% !important;
+    background: #10b981 !important;
+    cursor: pointer !important;
+    border: 2px solid #ffffff !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2) !important;
+  }
+
+  input[type="range"].slider-green::-moz-range-thumb {
+    -moz-appearance: none !important;
+    height: 20px !important;
+    width: 20px !important;
+    border-radius: 50% !important;
+    background: #10b981 !important;
+    cursor: pointer !important;
+    border: 2px solid #ffffff !important;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2) !important;
+  }
+
+  /* Estilos para sobrescribir cualquier estilo de Tailwind o framework */
+  .slider-green::-webkit-slider-thumb {
+    background-color: #10b981 !important;
+    background: #10b981 !important;
+  }
+
+  .slider-green::-moz-range-thumb {
+    background-color: #10b981 !important;
+    background: #10b981 !important;
+  }
+
+  /* Estilos modernos con accent-color */
+  .slider-green {
+    accent-color: #10b981 !important;
+  }
+
+  input[type="range"].slider-green {
+    accent-color: #10b981 !important;
+  }
+
+  /* Estilos adicionales para navegadores modernos */
+  input[type="range"] {
+    accent-color: #10b981 !important;
+  }
+}

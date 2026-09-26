@@ -1,0 +1,43 @@
+{
+  "compilerOptions": {
+    "target": "ES2020",
+    "useDefineForClassFields": true,
+    "lib": ["ES2020", "DOM", "DOM.Iterable"],
+    "module": "ESNext",
+    "skipLibCheck": true,
+
+    /* Bundler mode */
+    "moduleResolution": "bundler",
+    "allowImportingTsExtensions": true,
+    "isolatedModules": true,
+    "moduleDetection": "force",
+    "noEmit": true,
+    "jsx": "react-jsx",
+
+    /* Linting */
+    "strict": false,
+    "noUnusedLocals": false,
+    "noUnusedParameters": false,
+    "noImplicitAny": false,
+    "noFallthroughCasesInSwitch": false,
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["./src/*"],
+      "@/features/*": ["./src/features/*"],
+      "@/pages/*": ["./src/pages/*"],
+      "@/components/*": ["./src/shared/components/*"],
+      "@/hooks/*": ["./src/shared/hooks/*"],
+      "@/lib/*": ["./src/shared/lib/*"],
+      "@/integrations/*": ["./src/integrations/*"],
+      "@/services/*": ["./src/shared/services/*"],
+      "@/config/*": ["./src/shared/config/*"],
+      "@/types/*": ["./src/shared/types/*"],
+      "@/supabase/*": ["./src/shared/supabase/*"]
+    }
+  },
+  "include": ["src", "src/supabase", "src/integrations/supabase/functions/ai-health-insights", "src/integrations/supabase/functions/send-reminders", "src/integrations/supabase/functions/send-feedback", "src/integrations/supabase/functions/scoring", "src/integrations/supabase/functions/enrich-supplement-data", "src/integrations/supabase/client.ts"]
+}
